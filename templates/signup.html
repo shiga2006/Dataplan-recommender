@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            background: url('static/images/dataplan1.jpg') no-repeat center center;
+            background-size: cover;
+            min-height: 100vh;
+            padding: 40px 0;
+        }
+        
+        .container {
+            width: 90%;
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            padding: 40px;
+        }
+
+        .alert {
+            padding: 15px;
+            margin-bottom: 20px;
+            border: 1px solid transparent;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+
+        .alert-success {
+            color: #155724;
+            background-color: #d4edda;
+            border-color: #c3e6cb;
+        }
+
+        .alert-error {
+            color: #721c24;
+            background-color: #f8d7da;
+            border-color: #f5c6cb;
+        }
+        
+        h2 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .form-sections {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+        }
+        
+        .form-section {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555;
+            font-weight: 500;
+        }
+        
+        .form-group input,
+        .form-group select {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .form-group select {
+            background-color: white;
+        }
+        
+        button {
+            width: 100%;
+            padding: 15px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007BFF;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        
+        button:hover {
+            background-color: #0056b3;
+        }
+        
+        .switch {
+            text-align: center;
+            margin-top: 20px;
+        }
+        
+        .switch a {
+            color: #007BFF;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .switch a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .form-sections {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+            
+            .container {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }}">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <h2>Sign Up</h2>
+        <form method="POST" action="{{ url_for('signup') }}">
+            <div class="form-sections">
+                <div class="form-section">
+                    <h3>Personal Details</h3>
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="age">Age</label>
+                        <input type="number" id="age" name="age" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="phone_no">Phone Number</label>
+                        <input type="tel" id="phone_no" name="phone_no" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" name="password" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="location">Location</label>
+                        <input type="text" id="location" name="location" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="occupation">Occupation</label>
+                        <input type="text" id="occupation" name="occupation" required>
+                    </div>
+                </div>
+
+                <div class="form-section">
+                    <h3>Network Details</h3>
+                    <div class="form-group">
+                        <label for="Daily_Usage_GB">Daily Usage (GB)</label>
+                        <input type="number" step="0.01" id="Daily_Usage_GB" name="Daily_Usage_GB" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="Daily_Usage_MB">Daily Usage (MB)</label>
+                        <input type="number" step="0.01" id="Daily_Usage_MB" name="Daily_Usage_MB" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="Monthly_Usage_GB">Monthly Usage (GB)</label>
+                        <input type="number" step="0.01" id="Monthly_Usage_GB" name="Monthly_Usage_GB" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="Device_Type">Device Type</label>
+                        <select id="Device_Type" name="Device_Type" required>
+                            <option value="Tablet">Tablet</option>
+                            <option value="Smartphone">Smartphone</option>
+                            <option value="Television">Television</option>
+                            <option value="Laptop">Laptop</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="Preferred_Network">Preferred Network</label>
+                        <select id="Preferred_Network" name="Preferred_Network" required>
+                            <option value="4G">4G</option>
+                            <option value="5G">5G</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="SIM_Type">SIM Type</label>
+                        <select id="SIM_Type" name="SIM_Type" required>
+                            <option value="BSNL">BSNL</option>
+                            <option value="Airtel">Airtel</option>
+                            <option value="Vodafone">Vodafone</option>
+                            <option value="Jio">Jio</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="Network_Package">Network Package</label>
+                        <select id="Network_Package" name="Network_Package" required>
+                            <option value="Standard plan">Standard plan</option>
+                            <option value="Basic+calls">Basic+calls</option>
+                            <option value="Entertainment+Data">Entertainment+Data</option>
+                            <option value="Unlimited+OTT">Unlimited+OTT</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="Data_Limit_GB">Data Limit (GB)</label>
+                        <input type="number" step="0.01" id="Data_Limit_GB" name="Data_Limit_GB" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="Package_Cost">Package Cost</label>
+                        <input type="number" step="0.01" id="Package_Cost" name="Package_Cost" required>
+                    </div>
+                </div>
+            </div>
+
+            <button type="submit">Sign Up</button>
+            <div class="switch">
+                <a href="{{ url_for('login') }}">Already have an account? Log in</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

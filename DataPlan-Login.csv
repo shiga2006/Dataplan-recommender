@@ -1,0 +1,1001 @@
+﻿Name,Age,Mobile_Number,Password,Occupation,Location,Daily_Usage_GB,Daily_Usage_MB,Data_Limit_GB,Device_Type,Monthly_Usage_GB,Network_Package,Package_Cost,Preferred_Network,SIM_Type
+ Sherif,24,8321371910, Sher@782,IT sector,Villupuram,4.29,4392.96,1,Tablet,128.7,Standard Plan,199,5G,BSNL
+Toni Jebasto,41,7550172586,Toni@821,Other Professionals,Pudukkottai,0.55,563.2,1.5,Tablet,16.5,Basic+ Calls,299,4G,Airtel
+Nitheesh,27,8808325710,Nith_838,Doctor,Tirunelveli,1.03,1054.72,2.5,Television,30.9,Entertainment+ Data,499,4G,VI
+Rishikesh,26,9279039994,Rish#387,Teacher,Perambalur,3.85,3942.4,2.5,Smartphone,115.5,Entertainment+ Data,499,5G,VI
+Rahul,68,6913126492,Rahul_459,IT sector,Vellore,2.62,2682.88,1,Television,78.6,Standard Plan,199,5G,BSNL
+Roy,41,8249301029,RoyII257,Retiree,Karur,2.66,2723.84,1.5,Laptop,79.8,Basic+ Calls,299,5G,Airtel
+Alex ,28,8488241836,Alex_218,Student,Nagapattinam,1.03,1054.72,1.5,Television,30.9,Basic+ Calls,299,4G,Airtel
+Morgan Prissila,56,7233341897,Morga#826,Unemployed,Sivagangai,4.73,4843.52,1.5,Smartphone,141.9,Basic+ Calls,299,4G,Airtel
+Jordan ,63,8773658607,Jorda_819,Teacher,Theni,0.96,983.04,1.5,Smartphone,28.8,Basic+ Calls,299,4G,Airtel
+Jebasto,64,6731698061,Jebas_512,Other Professionals,Tiruchirappalli,1.35,1382.4,1,Tablet,40.5,Standard Plan,199,5G,BSNL
+Rex Morgan,51,7664991901,RexM#954,Freelancer,Kanchipuram,4.79,4904.96,1,Smartphone,143.7,Standard Plan,199,4G,BSNL
+Meiamudan,30,8142398813,Meiam_335,Freelancer,Theni,0.34,348.16,1.5,Laptop,10.2,Basic+ Calls,299,4G,Airtel
+Rocky,56,6173071399,Rocky_832,IT sector,Theni,3.56,3645.44,2.5,Television,106.8,Entertainment+ Data,499,5G,VI
+Das,42,7540985080,DasII_992,Other Professionals,Coimbatore,3.48,3563.52,2.5,Laptop,104.4,Entertainment+ Data,499,5G,VI
+Srinath,56,6875056264,Srina#176,Unemployed,Thoothukudi,4.88,4997.12,1,Laptop,146.4,Standard Plan,199,5G,BSNL
+Sowthri,45,9316744588,Sowth@478,Teacher,Cuddalore,4.15,4249.6,2.5,Television,124.5,Entertainment+ Data,499,5G,VI
+Jessi,39,9694693159,Jessi050,Unemployed,Thanjavur,1.88,1925.12,1,Tablet,56.4,Standard Plan,199,4G,BSNL
+Deepika,37,7944792202,Deep#459,IT sector,Nagapattinam,1.63,1669.12,1,Tablet,48.9,Standard Plan,199,4G,BSNL
+Manimegalai,41,6379293129,Manim#813,Student,Thiruvallur,4.61,4720.64,2,Television,138.3,Unlimited+ OTT,399,4G,Jio
+Manimozhi,40,7663950598,Manim_999,Other Professionals,Krishnagiri,3.67,3758.08,1,Smartphone,110.1,Standard Plan,199,4G,BSNL
+Shamili,59,7718740184,Shami@866,Retiree,Erode,0.44,450.56,2.5,Smartphone,13.2,Entertainment+ Data,499,5G,VI
+Britto,43,7865712386,Britt#737,Freelancer,Salem,0.48,491.52,1.5,Smartphone,14.4,Basic+ Calls,299,4G,Airtel
+Mynul,37,8288998127,Mynul@399,IT sector,Kanchipuram,1.2,1228.8,1.5,Smartphone,36,Basic+ Calls,299,4G,Airtel
+Sneha,35,6739908158,Sneha@604,Unemployed,Kallakurichi,4.19,4290.56,2,Television,125.7,Unlimited+ OTT,399,5G,Jio
+Das,29,9293302435,Dasxx@539,Teacher,Virudhunagar,2.43,2488.32,2.5,Tablet,72.9,Entertainment+ Data,499,5G,VI
+Priya,18,9289631265,Priya@835,IT sector,Thanjavur,0.44,450.56,1,Smartphone,13.2,Standard Plan,199,4G,BSNL
+Shalini,32,6633380353,Shali@607,Teacher,Virudhunagar,2.98,3051.52,1.5,Television,89.4,Basic+ Calls,299,4G,Airtel
+Swetha,42,7208726372,Sweth@033,Other Professionals,Ramanathapuram,1.5,1536,1.5,Tablet,45,Basic+ Calls,299,5G,Airtel
+Shadvik,34,8615765846,Shadv@333,IT sector,Nagapattinam,1.24,1269.76,2.5,Smartphone,37.2,Entertainment+ Data,499,5G,VI
+Shamili,38,6673131110,Shami@765,IT sector,Karur,1.49,1525.76,1.5,Smartphone,44.7,Basic+ Calls,299,4G,Airtel
+Sakthi,21,7912127285,Sakth@709,Student,Tiruvannamalai,0.77,788.48,2,Laptop,23.1,Unlimited+ OTT,399,4G,Jio
+Shreya,59,7874804591,Shrey@914,Freelancer,Nagapattinam,4.92,5038.08,1.5,Television,147.6,Basic+ Calls,299,4G,Airtel
+Devi,50,6959395252,Devif@863,Teacher,Theni,1.93,1976.32,2,Smartphone,57.9,Unlimited+ OTT,399,5G,Jio
+Sarath,22,7342383109,Sarat@063,Freelancer,Dindigul,4.09,4188.16,1,Tablet,122.7,Standard Plan,199,5G,BSNL
+Bharani,67,8177832010,Bhara@291,IT sector,Theni,4.45,4556.8,1.5,Tablet,133.5,Basic+ Calls,299,5G,Airtel
+Kavin,58,7828100554,Kavin@237,Student,Vellore,3.83,3921.92,1,Laptop,114.9,Standard Plan,199,5G,BSNL
+Tara,52,7620042153,Taraf@848,Student,Kanchipuram,4.96,5079.04,1,Television,148.8,Standard Plan,199,4G,BSNL
+Nishi,55,9769273841,Nishi@887,Student,Cuddalore,2.28,2334.72,1.5,Tablet,68.4,Basic+ Calls,299,4G,Airtel
+Vasanth,50,8657467443,Vasan@172,Freelancer,Krishnagiri,2.37,2426.88,1.5,Tablet,71.1,Basic+ Calls,299,5G,Airtel
+Akash,65,9238843388,Akash@543,Other Professionals,Sivagangai,1.31,1341.44,1.5,Laptop,39.3,Basic+ Calls,299,4G,Airtel
+Rishi,66,6371277270,Rishi@005,Doctor,Thiruvallur,4,4096,1.5,Television,120,Basic+ Calls,299,4G,Airtel
+Prajeshnu,62,6644868870,Praje@587,Teacher,Karur,1.61,1648.64,1.5,Tablet,48.3,Basic+ Calls,299,5G,Airtel
+Preshnev,50,9555518826,Presh@896,Doctor,Chennai,0.39,399.36,2.5,Smartphone,11.7,Entertainment+ Data,499,4G,VI
+Susan,44,6403268241,Susan@059,Student,Virudhunagar,1.26,1290.24,1,Tablet,37.8,Standard Plan,199,5G,BSNL
+Lath,37,8101983479,LathD@815,Unemployed,Thiruvarur,2.96,3031.04,2,Television,88.8,Unlimited+ OTT,399,4G,Jio
+Mukil,25,8919132476,Mukil@867,Doctor,Namakkal,3.01,3082.24,2.5,Smartphone,90.3,Entertainment+ Data,499,4G,VI
+Yeshwanth,60,7558099271,Yeshw@546,IT sector,Kallakurichi,3.95,4044.8,1.5,Television,118.5,Basic+ Calls,299,5G,Airtel
+Bhava,20,7576332732,Bhava@906,Doctor,Dharmapuri,4.2,4300.8,1,Tablet,126,Standard Plan,199,4G,BSNL
+Darshini,33,9193343105,Darsh@330,IT sector,Tiruchirappalli,2.37,2426.88,1,Laptop,71.1,Standard Plan,199,4G,BSNL
+Shruthi,39,8699857129,Shrut@405,Student,Erode,1.13,1157.12,2,Laptop,33.9,Unlimited+ OTT,399,4G,Jio
+Deepika,19,9972509437,Deepi@369,Freelancer,Coimbatore,2.98,3051.52,1.5,Laptop,89.4,Basic+ Calls,299,5G,Airtel
+Jyo,64,8261588668,JyoII@907,Student,Kanchipuram,2.5,2560,1.5,Smartphone,75,Basic+ Calls,299,5G,Airtel
+Desh,68,9717103841,DeshV@530,Doctor,Erode,4.45,4556.8,2,Television,133.5,Unlimited+ OTT,399,5G,Jio
+Nithya,43,8857658184,Nithy@648,Teacher,Chennai,1.83,1873.92,2.5,Tablet,54.9,Entertainment+ Data,499,4G,VI
+Tavisha,68,7982145490,Tavis@137,IT sector,Perambalur,4.62,4730.88,1.5,Television,138.6,Basic+ Calls,299,5G,Airtel
+Harshi,31,8987595890,Harsh@255,Freelancer,Dindigul,1.71,1751.04,1,Television,51.3,Standard Plan,199,4G,BSNL
+Arshea,40,7435273204,Arshe@058,Student,Erode,2.77,2836.48,1.5,Television,83.1,Basic+ Calls,299,5G,Airtel
+Indhu,31,7444376832,Indhu@870,Teacher,Pudukkottai,1.72,1761.28,2.5,Tablet,51.6,Entertainment+ Data,499,5G,VI
+Varsha,26,6444230436,Varsh@355,Unemployed,Thiruvarur,0.51,522.24,2,Smartphone,15.3,Unlimited+ OTT,399,4G,Jio
+Resh,62,9469657424,ReshM@197,Teacher,Sivagangai,0.75,768,2,Laptop,22.5,Unlimited+ OTT,399,5G,Jio
+Manuel,37,7717993057,Manue@446,IT sector,Nagapattinam,4.84,4956.16,2.5,Television,145.2,Entertainment+ Data,499,4G,VI
+Varshini,31,9738723486,Varsh@883,Other Professionals,Kallakurichi,0.94,962.56,1,Smartphone,28.2,Standard Plan,199,4G,BSNL
+Sai,45,9934803497,SaiTT@493,Doctor,Nagapattinam,3.63,3717.12,1,Smartphone,108.9,Standard Plan,199,5G,BSNL
+Arevinth,26,6829446326,Arevi@346,Teacher,Thanjavur,1.8,1843.2,1,Television,54,Standard Plan,199,5G,BSNL
+Chandru,27,8193091377,Chand@025,Teacher,Kallakurichi,3.68,3768.32,1.5,Tablet,110.4,Basic+ Calls,299,5G,Airtel
+Uga,55,7211700348,Ugaoo@028,Other Professionals,Kanchipuram,4.22,4321.28,2.5,Tablet,126.6,Entertainment+ Data,499,4G,VI
+Alsey,26,6591675918,Alsey@482,Freelancer,Tiruchirappalli,2.89,2959.36,2,Tablet,86.7,Unlimited+ OTT,399,5G,Jio
+Hasmin,22,7691336763,Hasmi@439,Freelancer,Coimbatore,0.64,655.36,2.5,Smartphone,19.2,Entertainment+ Data,499,5G,VI
+Jas,39,8391715120,JasRR@143,Teacher,Thiruvarur,2.65,2713.6,1,Smartphone,79.5,Standard Plan,199,5G,BSNL
+Shayaan,47,9744626152,Shaya@999,Doctor,Kanchipuram,0.59,604.16,2.5,Smartphone,17.7,Entertainment+ Data,499,5G,VI
+Rajesh,28,9753948773,Rajes@711,IT sector,Thiruvarur,3.35,3430.4,2,Laptop,100.5,Unlimited+ OTT,399,5G,Jio
+Raj,60,9996901608,RajPP@431,Unemployed,Theni,4.37,4474.88,2.5,Tablet,131.1,Entertainment+ Data,499,4G,VI
+Rajeshwari,65,8547606799,Rajes@751,Unemployed,Tiruvannamalai,4.39,4495.36,2.5,Laptop,131.7,Entertainment+ Data,499,5G,VI
+Litheesh,49,8995850044,Lithe@057,Freelancer,Villupuram,0.67,686.08,2.5,Tablet,20.1,Entertainment+ Data,499,4G,VI
+Archana,18,7844252944,Archa@508,Student,Cuddalore,4.22,4321.28,2,Television,126.6,Unlimited+ OTT,399,5G,Jio
+Dhanush,40,6931320374,Dhanu@954,Teacher,Dindigul,0.99,1013.76,1.5,Television,29.7,Basic+ Calls,299,4G,Airtel
+Jan,20,8992646668,Janoo@430,Unemployed,Coimbatore,0.4,409.6,2.5,Television,12,Entertainment+ Data,499,5G,VI
+Janani,69,6785824689,Janan@595,Teacher,Chennai,0.47,481.28,2,Smartphone,14.1,Unlimited+ OTT,399,4G,Jio
+Roshini,56,7443141414,Roshi@534,Doctor,Vellore,4.49,4597.76,1,Television,134.7,Standard Plan,199,5G,BSNL
+Sowmya,54,9996921980,Sowmy@072,Other Professionals,Ramanathapuram,1.32,1351.68,1.5,Television,39.6,Basic+ Calls,299,4G,Airtel
+Cassiya,58,8744400928,Cassi@015,Student,Chennai,0.98,1003.52,2,Laptop,29.4,Unlimited+ OTT,399,5G,Jio
+Lakshitha,48,6907534335,Laksh@824,Doctor,Cuddalore,2.18,2232.32,1.5,Tablet,65.4,Basic+ Calls,299,5G,Airtel
+Senthil,20,9864068169,Senth@926,Unemployed,Theni,1.07,1095.68,2,Television,32.1,Unlimited+ OTT,399,4G,Jio
+Kumar,57,8842137294,Kumar@193,Student,Dindigul,1.65,1689.6,1,Smartphone,49.5,Standard Plan,199,5G,BSNL
+Vatsan,34,9562061802,Vatsa@032,Freelancer,Thanjavur,0.43,440.32,1,Laptop,12.9,Standard Plan,199,5G,BSNL
+Sai,65,6517578653,SaiLL@958,Teacher,Nagapattinam,4.54,4648.96,1.5,Smartphone,136.2,Basic+ Calls,299,4G,Airtel
+Rahil,36,6116954512,Rahil@423,Retiree,Thanjavur,1.71,1751.04,2,Tablet,51.3,Unlimited+ OTT,399,4G,Jio
+Josephine,56,8925322481,Josep@694,Retiree,Salem,3.6,3686.4,1,Smartphone,108,Standard Plan,199,5G,BSNL
+Charu,46,8633114763,Charu@598,Doctor,Dindigul,1.24,1269.76,2,Television,37.2,Unlimited+ OTT,399,5G,Jio
+Aishu,31,8777885993,Aishu@831,Student,Thiruvallur,1.61,1648.64,2.5,Tablet,48.3,Entertainment+ Data,499,4G,VI
+Jebasto ,48,7356495315,Jebas@815,Other Professionals,Virudhunagar,2.81,2877.44,1,Smartphone,84.3,Standard Plan,199,4G,BSNL
+Deekshana,64,9546285585,Deeks@669,Other Professionals,Karur,1.33,1361.92,2,Tablet,39.9,Unlimited+ OTT,399,4G,Jio
+Jessi,63,9855798759,Jessi@010,IT sector,Sivagangai,4.33,4433.92,1,Tablet,129.9,Standard Plan,199,4G,BSNL
+Jessica,28,9283617217,Jessi@682,Freelancer,Dindigul,3.29,3368.96,1,Tablet,98.7,Standard Plan,199,4G,BSNL
+Tharun,70,7839698981,Tharu@299,Retiree,Theni,0.62,634.88,1.5,Tablet,18.6,Basic+ Calls,299,5G,Airtel
+Joel,34,8480791281,Joelk@854,Retiree,Pudukkottai,4.72,4833.28,2,Laptop,141.6,Unlimited+ OTT,399,4G,Jio
+Moni,23,9327437909,MoniM@617,Other Professionals,Ramanathapuram,3.39,3471.36,2.5,Television,101.7,Entertainment+ Data,499,4G,VI
+Akshaya,33,7231119849,Aksha@507,Other Professionals,Sivagangai,3.7,3788.8,2.5,Smartphone,111,Entertainment+ Data,499,4G,VI
+Divi,69,7745253839,DiviS@868,Freelancer,Nagapattinam,3.78,3870.72,1.5,Tablet,113.4,Basic+ Calls,299,5G,Airtel
+Karthick,50,9277537645,Karth@853,Student,Vellore,3.72,3809.28,2.5,Tablet,111.6,Entertainment+ Data,499,5G,VI
+Laksh,22,7457603069,Laksh@215,Teacher,Thiruvallur,1.85,1894.4,1.5,Television,55.5,Basic+ Calls,299,4G,Airtel
+Yaazhini,38,6981760651,Yaazh@538,Student,Cuddalore,4.44,4546.56,1,Laptop,133.2,Standard Plan,199,5G,BSNL
+Ram,54,6723648664,Ramkk@065,Other Professionals,Nilgiris,1.56,1597.44,2.5,Laptop,46.8,Entertainment+ Data,499,5G,VI
+Swathi,68,9520871314,Swath@156,Teacher,Villupuram,4.3,4403.2,2,Television,129,Unlimited+ OTT,399,4G,Jio
+Craig,25,8184137219,Craig@243,Other Professionals,Salem,3.68,3768.32,1,Television,110.4,Standard Plan,199,4G,BSNL
+Elton,39,7983708261,Elton@506,Unemployed,Kanchipuram,3.85,3942.4,2,Tablet,115.5,Unlimited+ OTT,399,4G,Jio
+Harini,50,7182767989,Harin@846,Freelancer,Thanjavur,2.49,2549.76,1.5,Television,74.7,Basic+ Calls,299,4G,Airtel
+Charan,69,6656990022,Chara@092,Freelancer,Virudhunagar,0.46,471.04,1,Tablet,13.8,Standard Plan,199,5G,BSNL
+Shree,51,9782779039,Shree@640,Freelancer,Tirunelveli,2.05,2099.2,1,Television,61.5,Standard Plan,199,5G,BSNL
+Ridhi,24,9661558890,Ridhi@988,Unemployed,Erode,1.12,1146.88,2.5,Tablet,33.6,Entertainment+ Data,499,5G,VI
+Keerthi,49,8184698011,Keert@139,Retiree,Thiruvallur,3.47,3553.28,2.5,Smartphone,104.1,Entertainment+ Data,499,4G,VI
+Sakshi,49,8684415127,Saksh@298,Freelancer,Vellore,4.57,4679.68,2,Smartphone,137.1,Unlimited+ OTT,399,5G,Jio
+Kavya,35,6888474245,Kavya@982,Retiree,Ariyalur,4.15,4249.6,1.5,Laptop,124.5,Basic+ Calls,299,4G,Airtel
+Vishal,19,9189780627,Visha@894,Student,Coimbatore,3.95,4044.8,2,Smartphone,118.5,Unlimited+ OTT,399,5G,Jio
+Gokul,59,8614018463,Gokul@886,Other Professionals,Salem,2.73,2795.52,2.5,Tablet,81.9,Entertainment+ Data,499,4G,VI
+Prasath,59,7146544724,Prasa@901,Doctor,Chennai,4.84,4956.16,2,Laptop,145.2,Unlimited+ OTT,399,4G,Jio
+sasikumar,22,9180896044,sasik@391,Student,Ariyalur,2.46,2519.04,1,Laptop,73.8,Standard Plan,199,4G,BSNL
+Prathu,44,7738075041,Prath@866,Unemployed,Tiruchirappalli,4.4,4505.6,1.5,Television,132,Basic+ Calls,299,4G,Airtel
+Sandhiya,52,7942771150,Sandh@422,IT sector,Coimbatore,4.4,4505.6,2.5,Tablet,132,Entertainment+ Data,499,5G,VI
+Sabarish,53,8657854622,Sabar@353,Doctor,Namakkal,1.78,1822.72,2.5,Laptop,53.4,Entertainment+ Data,499,5G,VI
+Shreeram,36,7141930804,Shree@061,Freelancer,Vellore,3.73,3819.52,2,Smartphone,111.9,Unlimited+ OTT,399,5G,Jio
+Prasana,56,6538691216,Prasa@504,Freelancer,Ramanathapuram,0.31,317.44,1.5,Laptop,9.3,Basic+ Calls,299,4G,Airtel
+Dhanvanth,46,9884214541,Dhanv@013,Student,Salem,1.14,1167.36,1.5,Tablet,34.2,Basic+ Calls,299,4G,Airtel
+Sweety,59,7537926292,Sweet@788,Teacher,Ariyalur,1.3,1331.2,2,Laptop,39,Unlimited+ OTT,399,5G,Jio
+Jeevika,48,9501920159,Jeevi@778,Student,Dindigul,0.97,993.28,1.5,Smartphone,29.1,Basic+ Calls,299,5G,Airtel
+Subha,23,9897376078,Subha@768,Unemployed,Nilgiris,4.49,4597.76,1.5,Tablet,134.7,Basic+ Calls,299,5G,Airtel
+Shri,67,7184333424,Shrit@488,IT sector,Namakkal,2.81,2877.44,2,Tablet,84.3,Unlimited+ OTT,399,4G,Jio
+Shalu,20,7132601376,Shalu@304,Doctor,Thanjavur,0.47,481.28,2,Smartphone,14.1,Unlimited+ OTT,399,5G,Jio
+Dhar,24,8981484221,DharY@714,Unemployed,Kanchipuram,0.89,911.36,2.5,Television,26.7,Entertainment+ Data,499,4G,VI
+Gopi,40,6504299932,Gopil@582,Retiree,Dindigul,4.26,4362.24,1,Television,127.8,Standard Plan,199,4G,BSNL
+Harshi,49,6272349015,Harsh@282,Other Professionals,Karur,2.38,2437.12,1,Smartphone,71.4,Standard Plan,199,4G,BSNL
+Abi,38,7903086757,AbiZZ@812,Student,Tirunelveli,2.89,2959.36,1,Smartphone,86.7,Standard Plan,199,4G,BSNL
+Yuga,60,6988414094,YugaY@957,Freelancer,Thiruvallur,2.16,2211.84,1.5,Television,64.8,Basic+ Calls,299,5G,Airtel
+Vishwa,54,6590843776,Vishw@006,Retiree,Ariyalur,3.18,3256.32,1.5,Laptop,95.4,Basic+ Calls,299,5G,Airtel
+Sherina,55,9670664909,Sheri@774,Retiree,Thiruvallur,3.53,3614.72,2,Tablet,105.9,Unlimited+ OTT,399,4G,Jio
+Prissila Casey,44,6349358441,Priss@187,IT sector,Vellore,4.69,4802.56,2.5,Television,140.7,Entertainment+ Data,499,5G,VI
+Alex Sherif,58,8417016387,Alex @097,Freelancer,Tirunelveli,1.02,1044.48,1,Television,30.6,Standard Plan,199,4G,BSNL
+Jordan Jebasto,27,7260436843,Jorda@841,Student,Kanchipuram,4.29,4392.96,2.5,Smartphone,128.7,Entertainment+ Data,499,4G,VI
+Morgan Sherif,28,7743354956,Morga@470,Unemployed,Karur,1.59,1628.16,1,Smartphone,47.7,Standard Plan,199,4G,BSNL
+Alex ,30,7698059392,Alex @052,Teacher,Thanjavur,0.72,737.28,2,Smartphone,21.6,Unlimited+ OTT,399,4G,Jio
+Toni ,57,9674790185,Toni @989,IT sector,Coimbatore,2.71,2775.04,2.5,Smartphone,81.3,Entertainment+ Data,499,4G,VI
+Alex Jebasto,24,9794594517,Alex @928,Retiree,Thoothukudi,3.61,3696.64,2.5,Smartphone,108.3,Entertainment+ Data,499,5G,VI
+Vivek,31,8627117983,Vivek@904,Doctor,Tirunelveli,0.73,747.52,1,Laptop,21.9,Standard Plan,199,5G,BSNL
+shan,61,7212512072,shanq@987,Other Professionals,Pudukkottai,1.47,1505.28,2,Laptop,44.1,Unlimited+ OTT,399,4G,Jio
+Amal,28,8951636380,Amalg@698,Retiree,Chennai,3.53,3614.72,2,Tablet,105.9,Unlimited+ OTT,399,5G,Jio
+Aren,41,6105988012,Arenr@438,Unemployed,Vellore,0.67,686.08,2,Television,20.1,Unlimited+ OTT,399,5G,Jio
+Deepak,40,7797146958,Deepa@587,Unemployed,Madurai,4.69,4802.56,2.5,Smartphone,140.7,Entertainment+ Data,499,5G,VI
+Prenesh,29,9510317184,Prene@430,Freelancer,Thiruvarur,0.9,921.6,2,Smartphone,27,Unlimited+ OTT,399,5G,Jio
+Sarukesh,69,6165217042,Saruk@548,Other Professionals,Villupuram,3.21,3287.04,2.5,Tablet,96.3,Entertainment+ Data,499,5G,VI
+Kishika,41,7839255855,Kishi@650,Freelancer,Salem,4.76,4874.24,2.5,Smartphone,142.8,Entertainment+ Data,499,4G,VI
+Madhuksha,62,7263556759,Madhu@883,Freelancer,Tiruvannamalai,2.16,2211.84,2.5,Tablet,64.8,Entertainment+ Data,499,4G,VI
+Riya,64,7692695115,Riyar@414,Unemployed,Erode,3.02,3092.48,2,Television,90.6,Unlimited+ OTT,399,4G,Jio
+Rithvik,39,6234599774,Rithv@159,Doctor,Krishnagiri,2.41,2467.84,1.5,Smartphone,72.3,Basic+ Calls,299,4G,Airtel
+Prasana,51,6394254915,Prasa@377,Doctor,Tiruvannamalai,1.2,1228.8,1.5,Tablet,36,Basic+ Calls,299,4G,Airtel
+Sanjay,24,7556754653,Sanja@271,Retiree,Villupuram,0.5,512,1.5,Smartphone,15,Basic+ Calls,299,4G,Airtel
+Rohit,53,6650386503,Rohit@176,Student,Thanjavur,0.32,327.68,2.5,Laptop,9.6,Entertainment+ Data,499,4G,VI
+Venba,61,6291387894,Venba@768,Student,Thoothukudi,2.16,2211.84,2.5,Laptop,64.8,Entertainment+ Data,499,5G,VI
+Katherine,24,7878435854,Kathe@495,Unemployed,Erode,4.13,4229.12,2,Tablet,123.9,Unlimited+ OTT,399,4G,Jio
+Vimala,50,8800727011,Vimal@246,Doctor,Thanjavur,2.08,2129.92,1,Tablet,62.4,Standard Plan,199,4G,BSNL
+Vimal,33,6390035528,Vimal@342,Doctor,Tiruchirappalli,0.69,706.56,1.5,Tablet,20.7,Basic+ Calls,299,4G,Airtel
+Daniel,22,9147591607,Danie@154,Freelancer,Krishnagiri,4.19,4290.56,2.5,Tablet,125.7,Entertainment+ Data,499,4G,VI
+Gopi,66,8276939915,GopiS@355,Freelancer,Madurai,1.64,1679.36,1,Television,49.2,Standard Plan,199,5G,BSNL
+Gopal,47,7627019207,Gopal@411,IT sector,Coimbatore,3.67,3758.08,2,Laptop,110.1,Unlimited+ OTT,399,5G,Jio
+Sudhakar,45,9363974567,Sudha@020,Unemployed,Dharmapuri,1.53,1566.72,2.5,Tablet,45.9,Entertainment+ Data,499,4G,VI
+Sudhar,66,7838809915,Sudha@036,Student,Madurai,2.6,2662.4,1,Television,78,Standard Plan,199,5G,BSNL
+Subhu,57,9706258183,Subhu@146,Freelancer,Cuddalore,3.66,3747.84,2,Smartphone,109.8,Unlimited+ OTT,399,4G,Jio
+Barani,51,7516572233,Baran@575,Other Professionals,Pudukkottai,4.87,4986.88,2,Smartphone,146.1,Unlimited+ OTT,399,5G,Jio
+Prasath,18,7271856354,Prasa@233,Teacher,Thanjavur,0.69,706.56,2,Television,20.7,Unlimited+ OTT,399,4G,Jio
+Nivin,22,8135865704,Nivin@059,Student,Villupuram,3.1,3174.4,1,Laptop,93,Standard Plan,199,4G,BSNL
+Aashinth,32,6174311362,Aashi@513,Teacher,Kallakurichi,2.23,2283.52,2.5,Tablet,66.9,Entertainment+ Data,499,5G,VI
+Samson,44,8240414850,Samso@562,Retiree,Tiruchirappalli,0.78,798.72,1.5,Smartphone,23.4,Basic+ Calls,299,4G,Airtel
+Joseph,57,9553898573,Josep@939,Freelancer,Nilgiris,4.32,4423.68,1.5,Tablet,129.6,Basic+ Calls,299,4G,Airtel
+Naveen,63,7283172737,Navee@818,IT sector,Cuddalore,4.74,4853.76,1,Tablet,142.2,Standard Plan,199,4G,BSNL
+Gokulnath,48,7648330523,Gokul@938,IT sector,Thiruvallur,3.92,4014.08,2,Smartphone,117.6,Unlimited+ OTT,399,5G,Jio
+Srivatsan,42,8680731388,Sriva@076,IT sector,Virudhunagar,3.15,3225.6,1.5,Television,94.5,Basic+ Calls,299,4G,Airtel
+HariShankar,38,8562861327,HariS@620,Doctor,Ramanathapuram,3.11,3184.64,2.5,Television,93.3,Entertainment+ Data,499,4G,VI
+HariRam,44,9452055034,HariR@984,Student,Namakkal,2.47,2529.28,2.5,Television,74.1,Entertainment+ Data,499,4G,VI
+Gunalan,41,6390246944,Gunal@074,Teacher,Sivagangai,4.38,4485.12,1.5,Laptop,131.4,Basic+ Calls,299,5G,Airtel
+Gugan,62,6485184497,Gugan@291,Unemployed,Thanjavur,4.58,4689.92,1,Laptop,137.4,Standard Plan,199,5G,BSNL
+Yaneshwar,64,6887457379,Yanes@058,Doctor,Cuddalore,3.89,3983.36,1,Laptop,116.7,Standard Plan,199,5G,BSNL
+Yogeshwaran,61,7878778061,Yoges@751,Teacher,Pudukkottai,0.21,215.04,1,Television,6.3,Standard Plan,199,4G,BSNL
+Vinoth,62,7783824732,Vinot_325,Doctor,Kallakurichi,0.66,675.84,1.5,Laptop,19.8,Basic+ Calls,299,4G,Airtel
+Smitha,47,8402615152,Smith_664,Teacher,Theni,0.62,634.88,1.5,Tablet,18.6,Basic+ Calls,299,4G,Airtel
+Jagadesh,28,9318449239,Jagad_826,Other Professionals,Tiruppur,1.82,1863.68,2.5,Laptop,54.6,Entertainment+ Data,499,4G,VI
+PremSiva,60,7311130294,PremS@742,Doctor,Madurai,2.29,2344.96,2,Smartphone,68.7,Unlimited+ OTT,399,5G,Jio
+PremKumar,55,9795809207,PremK@531,Doctor,Tiruchirappalli,3.9,3993.6,1.5,Laptop,117,Basic+ Calls,299,4G,Airtel
+Muthukumar,23,9141067461,Muthu@624,Doctor,Tiruchirappalli,0.83,849.92,1.5,Smartphone,24.9,Basic+ Calls,299,4G,Airtel
+Binayak,22,7225415121,Binay@713,Unemployed,Virudhunagar,3.99,4085.76,2.5,Smartphone,119.7,Entertainment+ Data,499,4G,VI
+Singh,69,9253825907,Singh@651,Freelancer,Dharmapuri,2.46,2519.04,1,Smartphone,73.8,Standard Plan,199,5G,BSNL
+Zahid,43,7465242613,Zahid@014,IT sector,Erode,2.81,2877.44,2,Smartphone,84.3,Unlimited+ OTT,399,5G,Jio
+Thirumalai,50,7478234224,Thiru@987,Freelancer,Kallakurichi,2.57,2631.68,1,Smartphone,77.1,Standard Plan,199,4G,BSNL
+Pushpa,23,6575806167,Pushp@374,Other Professionals,Tiruchirappalli,4.57,4679.68,2.5,Smartphone,137.1,Entertainment+ Data,499,5G,VI
+Murugan,70,9758715001,Murug@444,Unemployed,Kallakurichi,2.74,2805.76,2.5,Tablet,82.2,Entertainment+ Data,499,5G,VI
+Alluarjun,33,7483679241,Allua@697,Unemployed,Krishnagiri,4.43,4536.32,1.5,Smartphone,132.9,Basic+ Calls,299,4G,Airtel
+Sreelila,68,7888864776,Sreel@292,Student,Theni,4.49,4597.76,1.5,Television,134.7,Basic+ Calls,299,4G,Airtel
+Sreedevi,30,6844869722,Sreed@962,Student,Ramanathapuram,0.11,112.64,1.5,Television,3.3,Basic+ Calls,299,5G,Airtel
+Sreediviya,49,6637239166,Sreed@426,Other Professionals,Vellore,0.15,153.6,2.5,Television,4.5,Entertainment+ Data,499,5G,VI
+ShreesaiKishore,60,7681670594,Shree@421,Retiree,Madurai,0.43,440.32,2.5,Tablet,12.9,Entertainment+ Data,499,5G,VI
+Saipraasath,61,7400763323,Saipr@340,Unemployed,Pudukkottai,3.81,3901.44,2.5,Tablet,114.3,Entertainment+ Data,499,5G,VI
+Kishore,34,7877074611,Kisho@958,Doctor,Ramanathapuram,2.9,2969.6,2,Television,87,Unlimited+ OTT,399,5G,Jio
+Kannan,61,9335678450,Kanna@437,Teacher,Thoothukudi,3.34,3420.16,2,Smartphone,100.2,Unlimited+ OTT,399,5G,Jio
+Rupel,52,7822130412,Rupel@970,Retiree,Thiruvallur,1.57,1607.68,2.5,Television,47.1,Entertainment+ Data,499,5G,VI
+Vivekananda,23,9982337836,Vivek@014,Teacher,Chennai,0.87,890.88,2,Television,26.1,Unlimited+ OTT,399,4G,Jio
+Jeevana,28,7502161403,Jeeva@716,Retiree,Ariyalur,0.57,583.68,2,Smartphone,17.1,Unlimited+ OTT,399,5G,Jio
+Kapil,35,9611622309,Kapil@274,Teacher,Namakkal,0.29,296.96,2,Television,8.7,Unlimited+ OTT,399,4G,Jio
+Dev,33,6153355543,Devww@784,Teacher,Thoothukudi,1.29,1320.96,2,Smartphone,38.7,Unlimited+ OTT,399,5G,Jio
+Ranna,44,9247932089,Ranna@542,Student,Pudukkottai,2.2,2252.8,1,Laptop,66,Standard Plan,199,5G,BSNL
+Krishna,40,8559811830,Krish@975,Retiree,Karur,0.95,972.8,1,Laptop,28.5,Standard Plan,199,5G,BSNL
+Pandhya,61,6915054083,Pandh@756,Retiree,Tirunelveli,3.88,3973.12,1,Laptop,116.4,Standard Plan,199,5G,BSNL
+Dravid,50,8927381235,Dravi@296,Teacher,Tiruvannamalai,3.48,3563.52,2,Tablet,104.4,Unlimited+ OTT,399,4G,Jio
+Karunya,49,6705542355,Karun@501,Other Professionals,Ramanathapuram,1.75,1792,1,Television,52.5,Standard Plan,199,5G,BSNL
+Karuna,21,6229215825,Karun@429,Other Professionals,Madurai,2.85,2918.4,1.5,Television,85.5,Basic+ Calls,299,4G,Airtel
+Warner,67,6968450500,Warne@161,Teacher,Perambalur,1.82,1863.68,1.5,Television,54.6,Basic+ Calls,299,4G,Airtel
+Dhoni,33,8745255231,Dhoni@119,IT sector,Perambalur,2.15,2201.6,1,Tablet,64.5,Standard Plan,199,4G,BSNL
+Jonson,20,9723393627,Jonso@605,Other Professionals,Namakkal,3.86,3952.64,1,Laptop,115.8,Standard Plan,199,5G,BSNL
+Sharma,61,8427962278,Sharm@511,Teacher,Kanchipuram,2.88,2949.12,1,Television,86.4,Standard Plan,199,4G,BSNL
+Ajith,57,6104640100,Ajith@933,Doctor,Nilgiris,2.27,2324.48,2.5,Smartphone,68.1,Entertainment+ Data,499,5G,VI
+Vijay,18,9634555400,Vijay@587,Doctor,Kallakurichi,4.74,4853.76,2.5,Laptop,142.2,Entertainment+ Data,499,5G,VI
+Sethupathi,61,8769063038,Sethu@452,Unemployed,Dindigul,3.78,3870.72,2.5,Laptop,113.4,Entertainment+ Data,499,4G,VI
+Nayan,33,9527895317,Nayan@670,Freelancer,Namakkal,1.94,1986.56,2.5,Smartphone,58.2,Entertainment+ Data,499,5G,VI
+Simbu,52,6788287677,Simbu@728,Student,Madurai,3.32,3399.68,2,Smartphone,99.6,Unlimited+ OTT,399,4G,Jio
+Andrea,43,9212274865,Andre@417,Teacher,Erode,3.31,3389.44,1,Laptop,99.3,Standard Plan,199,4G,BSNL
+Anirudh,39,9617496153,Aniru@659,Doctor,Namakkal,2.68,2744.32,1.5,Smartphone,80.4,Basic+ Calls,299,5G,Airtel
+Sivan,70,8906528198,Sivan@829,Doctor,Coimbatore,4.32,4423.68,2.5,Smartphone,129.6,Entertainment+ Data,499,5G,VI
+Elon,53,6273770036,ElonL@104,Unemployed,Thoothukudi,2.6,2662.4,1.5,Tablet,78,Basic+ Calls,299,5G,Airtel
+Bhanusri,22,6541716811,Bhanu@597,Doctor,Krishnagiri,3.08,3153.92,1.5,Tablet,92.4,Basic+ Calls,299,4G,Airtel
+Maharajan,65,9107927606,Mahar@461,Teacher,Ramanathapuram,1.9,1945.6,2,Laptop,57,Unlimited+ OTT,399,4G,Jio
+Anush,28,7370187134,Anush@746,Teacher,Karur,2.53,2590.72,1,Laptop,75.9,Standard Plan,199,5G,BSNL
+Ayush,19,8871821419,Ayush@103,IT sector,Kanchipuram,4.3,4403.2,1.5,Tablet,129,Basic+ Calls,299,5G,Airtel
+Bumra,18,6270293681,Bumra@755,Doctor,Krishnagiri,4.38,4485.12,2,Tablet,131.4,Unlimited+ OTT,399,4G,Jio
+Siraj,39,6951082578,Siraj@186,Doctor,Thanjavur,0.9,921.6,2,Television,27,Unlimited+ OTT,399,4G,Jio
+Swetha Reddy,67,6751043404,Sweth@302,Student,Vellore,4.67,4782.08,2,Tablet,140.1,Unlimited+ OTT,399,4G,Jio
+Angeline,22,6449048664,Angel@724,Unemployed,Sivagangai,4.99,5109.76,2.5,Smartphone,149.7,Entertainment+ Data,499,5G,VI
+Johnsy,21,8651436274,Johns@803,Doctor,Nagapattinam,3.97,4065.28,1.5,Tablet,119.1,Basic+ Calls,299,4G,Airtel
+Prissila Casey,22,6185591016,Priss@987,Freelancer,Tiruppur,2.77,2836.48,2.5,Television,83.1,Entertainment+ Data,499,4G,VI
+Princy,60,7652100488,Princ@193,Unemployed,Thiruvallur,4.17,4270.08,1,Laptop,125.1,Standard Plan,199,5G,BSNL
+Sekar,60,6472603859,Sekar@158,Unemployed,Sivagangai,1.56,1597.44,2,Tablet,46.8,Unlimited+ OTT,399,4G,Jio
+Smrithi,43,8387154144,Smrit@767,Other Professionals,Tiruchirappalli,1.93,1976.32,1.5,Tablet,57.9,Basic+ Calls,299,4G,Airtel
+Vandana,23,9586569951,Vanda@047,Unemployed,Ramanathapuram,3.52,3604.48,1,Smartphone,105.6,Standard Plan,199,4G,BSNL
+Sangakara,68,8761344286,Sanga@205,Teacher,Nagapattinam,3.18,3256.32,2.5,Smartphone,95.4,Entertainment+ Data,499,4G,VI
+Venkatesh,70,8526648111,Venka@304,Student,Chennai,0.36,368.64,2.5,Television,10.8,Entertainment+ Data,499,5G,VI
+Ganesh,40,9765444168,Ganes@125,Teacher,Kallakurichi,0.87,890.88,1,Television,26.1,Standard Plan,199,5G,BSNL
+Durai,23,7540699320,Durai@603,Other Professionals,Vellore,0.25,256,2,Tablet,7.5,Unlimited+ OTT,399,5G,Jio
+Jackson,67,7431147432,Jacks@272,Other Professionals,Dindigul,4.17,4270.08,2.5,Television,125.1,Entertainment+ Data,499,4G,VI
+Gunanidhi,37,9133168290,Gunan@550,Freelancer,Salem,3.12,3194.88,2.5,Smartphone,93.6,Entertainment+ Data,499,5G,VI
+Tharukesh,53,6944408869,Tharu@710,Teacher,Dindigul,4.44,4546.56,2,Television,133.2,Unlimited+ OTT,399,4G,Jio
+Leksia,34,7507129353,Leksi@355,Freelancer,Vellore,2.42,2478.08,1.5,Laptop,72.6,Basic+ Calls,299,5G,Airtel
+Haritha,21,7459887386,Harit@807,Freelancer,Ramanathapuram,0.82,839.68,2.5,Laptop,24.6,Entertainment+ Data,499,4G,VI
+Roopashree,37,6888646920,Roopa@406,Other Professionals,Villupuram,0.63,645.12,2.5,Television,18.9,Entertainment+ Data,499,4G,VI
+Manunidhi,45,9888950055,Manun@894,IT sector,Nilgiris,4.04,4136.96,2.5,Smartphone,121.2,Entertainment+ Data,499,5G,VI
+Immanuel,41,8482631996,Imman@391,Unemployed,Kanchipuram,4.75,4864,1.5,Tablet,142.5,Basic+ Calls,299,4G,Airtel
+Jeeva,64,8110192062,Jeeva@601,Teacher,Theni,1.95,1996.8,1,Tablet,58.5,Standard Plan,199,5G,BSNL
+Diraj,61,6546404463,Diraj@173,Teacher,Karur,0.73,747.52,1.5,Television,21.9,Basic+ Calls,299,4G,Airtel
+Harshini,41,9691153096,Harsh@177,Doctor,Thoothukudi,1.8,1843.2,2.5,Tablet,54,Entertainment+ Data,499,4G,VI
+Anuradha,48,9347921376,Anura@784,Student,Tirunelveli,2.28,2334.72,2.5,Television,68.4,Entertainment+ Data,499,5G,VI
+Shamitha,55,8781840563,Shami@858,IT sector,Kallakurichi,1.46,1495.04,1,Television,43.8,Standard Plan,199,4G,BSNL
+Saurab,29,9922006023,Saura@885,Unemployed,Thiruvallur,3.44,3522.56,2.5,Television,103.2,Entertainment+ Data,499,4G,VI
+Kohli,58,7104098110,Kohli@277,Doctor,Sivagangai,2.31,2365.44,1.5,Smartphone,69.3,Basic+ Calls,299,5G,Airtel
+JaiGanesh,54,7504852554,JaiGa@288,Other Professionals,Krishnagiri,0.69,706.56,1.5,Smartphone,20.7,Basic+ Calls,299,5G,Airtel
+JaiShankar,19,7236627560,JaiSh@793,Student,Tiruppur,3.75,3840,1,Television,112.5,Standard Plan,199,5G,BSNL
+Uday,58,8797725923,Udayr@984,Teacher,Ariyalur,1.15,1177.6,2.5,Smartphone,34.5,Entertainment+ Data,499,5G,VI
+Trump,35,7124407649,Trump@620,Unemployed,Krishnagiri,0.68,696.32,1.5,Smartphone,20.4,Basic+ Calls,299,5G,Airtel
+Jaculin,26,9843405536,Jacul@795,IT sector,Krishnagiri,1.23,1259.52,1,Tablet,36.9,Standard Plan,199,4G,BSNL
+Rakshan,46,8341616626,Raksh@689,Doctor,Coimbatore,3.37,3450.88,1,Smartphone,101.1,Standard Plan,199,5G,BSNL
+Pugazh,70,6439547425,Pugaz@999,Retiree,Pudukkottai,0.13,133.12,1.5,Television,3.9,Basic+ Calls,299,4G,Airtel
+Riyan,26,6803900060,Riyan@479,Freelancer,Dindigul,2.65,2713.6,2,Tablet,79.5,Unlimited+ OTT,399,5G,Jio
+Rayan,19,6629265717,Rayan@877,Other Professionals,Pudukkottai,4.92,5038.08,2.5,Television,147.6,Entertainment+ Data,499,5G,VI
+Tamizhasan,23,6473856952,Tamiz@887,Freelancer,Thiruvarur,4.73,4843.52,2.5,Television,141.9,Entertainment+ Data,499,5G,VI
+Rakshitha,64,7947949943,Raksh@512,Unemployed,Kanchipuram,4.27,4372.48,1,Smartphone,128.1,Standard Plan,199,5G,BSNL
+Anshdha,62,9505610354,Anshd@349,IT sector,Tirunelveli,0.71,727.04,1.5,Laptop,21.3,Basic+ Calls,299,5G,Airtel
+Komadhi,58,7206841637,Komad@116,Doctor,Tiruchirappalli,2.48,2539.52,1.5,Laptop,74.4,Basic+ Calls,299,4G,Airtel
+Kopuradevi,32,7839854708,Kopur@254,Other Professionals,Karur,4.65,4761.6,1,Smartphone,139.5,Standard Plan,199,4G,BSNL
+PrithviRajKumar,34,9602789367,Prith@724,Student,Thiruvarur,2.76,2826.24,2.5,Laptop,82.8,Entertainment+ Data,499,4G,VI
+Govinthdan,51,7269643521,Govin@988,Freelancer,Tiruvannamalai,3.47,3553.28,2,Tablet,104.1,Unlimited+ OTT,399,5G,Jio
+Gopalan,34,7806088154,Gopal@850,Unemployed,Pudukkottai,2.29,2344.96,2.5,Television,68.7,Entertainment+ Data,499,4G,VI
+Vinayan,30,9335125593,Vinay@464,Teacher,Krishnagiri,2.07,2119.68,1.5,Television,62.1,Basic+ Calls,299,4G,Airtel
+Pravathi,23,7165476446,Prava@277,Doctor,Thoothukudi,4.87,4986.88,2,Laptop,146.1,Unlimited+ OTT,399,4G,Jio
+Annamalai,69,9356426691,Annam@104,Freelancer,Thanjavur,4.66,4771.84,1,Television,139.8,Standard Plan,199,5G,BSNL
+Unnamali,40,9482616335,Unnam@179,Unemployed,Villupuram,0.41,419.84,2,Laptop,12.3,Unlimited+ OTT,399,4G,Jio
+Malli,25,6312015271,Malli@331,Freelancer,Dindigul,2.8,2867.2,1.5,Tablet,84,Basic+ Calls,299,4G,Airtel
+Gowri,54,7928535570,Gowri@026,IT sector,Theni,0.55,563.2,2,Laptop,16.5,Unlimited+ OTT,399,4G,Jio
+Kandavel,61,8670908070,Kanda@440,Doctor,Thoothukudi,2.95,3020.8,2,Television,88.5,Unlimited+ OTT,399,5G,Jio
+Eshwaran,48,8507563855,Eshwa@009,Teacher,Krishnagiri,1.72,1761.28,2,Television,51.6,Unlimited+ OTT,399,4G,Jio
+Rohan,43,7686316064,Rohan@790,IT sector,Thiruvarur,2.06,2109.44,2,Tablet,61.8,Unlimited+ OTT,399,4G,Jio
+Ashok,32,8516763468,Ashok@279,Student,Kanchipuram,4.91,5027.84,2,Smartphone,147.3,Unlimited+ OTT,399,4G,Jio
+Selvan,31,7549998029,Selva@025,Retiree,Thoothukudi,4.42,4526.08,2.5,Smartphone,132.6,Entertainment+ Data,499,5G,VI
+Dakshav,35,8126380567,Daksh@318,IT sector,Perambalur,2.64,2703.36,2.5,Tablet,79.2,Entertainment+ Data,499,4G,VI
+Harish,70,7930541008,Haris@719,Other Professionals,Namakkal,3.54,3624.96,2.5,Laptop,106.2,Entertainment+ Data,499,5G,VI
+Jayaraj,19,6525230870,Jayar@483,Freelancer,Tiruppur,2.07,2119.68,2.5,Laptop,62.1,Entertainment+ Data,499,4G,VI
+Karthik,43,7771255903,Karth@311,Student,Salem,4.79,4904.96,2.5,Smartphone,143.7,Entertainment+ Data,499,4G,VI
+Suriya,37,9160725665,Suriy@285,Retiree,Kanchipuram,4.08,4177.92,2.5,Laptop,122.4,Entertainment+ Data,499,4G,VI
+Gowtham,58,9170748606,Gowth@526,Other Professionals,Krishnagiri,0.66,675.84,1.5,Television,19.8,Basic+ Calls,299,4G,Airtel
+GowriAnandhi,20,7230312316,Gowri@991,IT sector,Coimbatore,0.79,808.96,1.5,Laptop,23.7,Basic+ Calls,299,5G,Airtel
+Anandhi,37,9255355660,Anand@686,Doctor,Villupuram,0.94,962.56,1,Television,28.2,Standard Plan,199,5G,BSNL
+SuryaPrakash,57,6220687243,Surya@042,Student,Thanjavur,4.14,4239.36,1.5,Tablet,124.2,Basic+ Calls,299,4G,Airtel
+PrakashRaj,27,8718117226,Praka@566,Doctor,Namakkal,1.48,1515.52,1,Tablet,44.4,Standard Plan,199,4G,BSNL
+Aarthi,22,7976424147,Aarth@185,IT sector,Thiruvallur,0.2,204.8,2,Television,6,Unlimited+ OTT,399,5G,Jio
+Ishwarya,60,7483635894,Ishwa@630,Other Professionals,Thiruvallur,2.05,2099.2,1,Smartphone,61.5,Standard Plan,199,5G,BSNL
+Ajay,28,9816104737,Ajaym@114,Unemployed,Namakkal,3.26,3338.24,2.5,Tablet,97.8,Entertainment+ Data,499,5G,VI
+Amala,65,9914788383,Amala@508,Teacher,Nilgiris,3.67,3758.08,1,Smartphone,110.1,Standard Plan,199,5G,BSNL
+Anil,39,7447422522,AnilB@618,IT sector,Tiruvannamalai,1.42,1454.08,2,Tablet,42.6,Unlimited+ OTT,399,5G,Jio
+Ajali,44,7160167490,Ajali@578,Unemployed,Tirunelveli,4.18,4280.32,1,Smartphone,125.4,Standard Plan,199,5G,BSNL
+Archana,45,7456991435,Archa@703,Unemployed,Nilgiris,3.26,3338.24,2,Laptop,97.8,Unlimited+ OTT,399,5G,Jio
+Ashish,70,7929818614,Ashis@957,Teacher,Nagapattinam,4.64,4751.36,2,Laptop,139.2,Unlimited+ OTT,399,4G,Jio
+Kowsalya,67,6617118221,Kowsa@666,Unemployed,Salem,2.91,2979.84,2,Laptop,87.3,Unlimited+ OTT,399,5G,Jio
+Bala,37,8696759698,Balaw@232,Doctor,Perambalur,3.95,4044.8,2.5,Television,118.5,Entertainment+ Data,499,4G,VI
+Prabha,31,7840569075,Prabh@246,Other Professionals,Coimbatore,4.34,4444.16,1.5,Tablet,130.2,Basic+ Calls,299,5G,Airtel
+Gopinath,66,7519718458,Gopin@452,Retiree,Pudukkottai,0.36,368.64,2,Television,10.8,Unlimited+ OTT,399,4G,Jio
+Hema,49,8207477801,HemaA@429,Freelancer,Sivagangai,3.23,3307.52,1.5,Smartphone,96.9,Basic+ Calls,299,5G,Airtel
+Idra,52,7972776534,IdraG@285,Student,Tiruvannamalai,2.9,2969.6,1,Television,87,Standard Plan,199,5G,BSNL
+Indumathi,50,8456762674,Indum@759,IT sector,Thoothukudi,4.54,4648.96,1,Smartphone,136.2,Standard Plan,199,5G,BSNL
+Jayanidhi,45,7278663953,Jayan@239,Student,Thiruvallur,0.39,399.36,2.5,Smartphone,11.7,Entertainment+ Data,499,5G,VI
+Kalpana,43,8317982422,Kalpa@441,Unemployed,Tirunelveli,1.84,1884.16,2.5,Smartphone,55.2,Entertainment+ Data,499,4G,VI
+Kala,53,9609227794,KalaQ@305,Unemployed,Namakkal,0.84,860.16,2,Tablet,25.2,Unlimited+ OTT,399,5G,Jio
+Jyothi,39,9961105770,Jyoth@483,Doctor,Nilgiris,1.05,1075.2,2,Smartphone,31.5,Unlimited+ OTT,399,4G,Jio
+Kamakshi,26,9541640417,Kamak@161,Teacher,Sivagangai,1.4,1433.6,1,Laptop,42,Standard Plan,199,5G,BSNL
+Kanchana,61,9628676002,Kanch@820,Doctor,Erode,2.41,2467.84,2,Smartphone,72.3,Unlimited+ OTT,399,5G,Jio
+Leelavathi,48,8637812341,Leela@914,Unemployed,Thoothukudi,4.26,4362.24,1,Laptop,127.8,Standard Plan,199,5G,BSNL
+Mathimalar,66,6525823099,Mathi@797,Student,Krishnagiri,1.57,1607.68,1,Smartphone,47.1,Standard Plan,199,5G,BSNL
+Mathivanan,48,6191302488,Mathi@400,Student,Cuddalore,3.5,3584,2,Smartphone,105,Unlimited+ OTT,399,5G,Jio
+Mathew,33,6572735426,Mathe@899,IT sector,Kanchipuram,4.51,4618.24,1.5,Laptop,135.3,Basic+ Calls,299,5G,Airtel
+Isaac,61,8802139365,Isaac@491,Unemployed,Cuddalore,3.88,3973.12,2.5,Laptop,116.4,Entertainment+ Data,499,5G,VI
+Nasriya,29,6242333253,Nasri@822,Retiree,Krishnagiri,1.01,1034.24,1.5,Laptop,30.3,Basic+ Calls,299,5G,Airtel
+Fahad,53,8551471091,Fahad@391,Freelancer,Tiruchirappalli,2.87,2938.88,1.5,Tablet,86.1,Basic+ Calls,299,4G,Airtel
+Fassil,23,8317831712,Fassi@196,Doctor,Krishnagiri,4.29,4392.96,2,Smartphone,128.7,Unlimited+ OTT,399,4G,Jio
+Kamalakanan,70,7667170447,Kamal@351,Freelancer,Tiruppur,4.81,4925.44,2.5,Laptop,144.3,Entertainment+ Data,499,5G,VI
+Rajini,32,7284288724,Rajin@437,Doctor,Thiruvarur,1.4,1433.6,2,Laptop,42,Unlimited+ OTT,399,5G,Jio
+Mohanapriya,34,6515455659,Mohan@824,Freelancer,Tiruppur,3.17,3246.08,2,Tablet,95.1,Unlimited+ OTT,399,4G,Jio
+Vijaykumar,32,6954094795,Vijay@534,Retiree,Krishnagiri,4.21,4311.04,2,Smartphone,126.3,Unlimited+ OTT,399,4G,Jio
+Haridoss,50,9934279718,Harid@422,Unemployed,Karur,2.22,2273.28,1,Smartphone,66.6,Standard Plan,199,5G,BSNL
+Lingesh,38,6255280908,Linge@309,Retiree,Dindigul,1.44,1474.56,1,Tablet,43.2,Standard Plan,199,4G,BSNL
+Revathi,18,9868817699,Revat@202,Doctor,Kanchipuram,3.58,3665.92,1.5,Television,107.4,Basic+ Calls,299,5G,Airtel
+Padmavathy,21,6334057064,Padma@538,Freelancer,Nilgiris,0.8,819.2,1,Smartphone,24,Standard Plan,199,5G,BSNL
+Tharani,58,9416176779,Thara@596,Student,Thiruvallur,2.53,2590.72,2.5,Laptop,75.9,Entertainment+ Data,499,4G,VI
+SanjayKuamran,65,8185432748,Sanja@731,IT sector,Dindigul,3.58,3665.92,2,Smartphone,107.4,Unlimited+ OTT,399,5G,Jio
+Vishwanathan,48,9979268948,Vishw@877,Other Professionals,Nilgiris,1.51,1546.24,1.5,Television,45.3,Basic+ Calls,299,5G,Airtel
+Varalakshmi,30,9586375814,Varal@149,Freelancer,Tirunelveli,4.77,4884.48,1.5,Smartphone,143.1,Basic+ Calls,299,4G,Airtel
+Balasundran,70,7203223469,Balas@200,Doctor,Krishnagiri,4.31,4413.44,1.5,Laptop,129.3,Basic+ Calls,299,5G,Airtel
+Prabhavathy,62,8575073471,Prabh@628,Teacher,Erode,3.31,3389.44,2.5,Tablet,99.3,Entertainment+ Data,499,5G,VI
+Arunachalan,31,8179787248,Aruna@437,Retiree,Thoothukudi,1.3,1331.2,1.5,Tablet,39,Basic+ Calls,299,5G,Airtel
+Manonmani,49,8775671543,Manon@362,Other Professionals,Kanchipuram,3.48,3563.52,1.5,Smartphone,104.4,Basic+ Calls,299,4G,Airtel
+Kailash,38,7324168895,Kaila@180,Unemployed,Cuddalore,2.56,2621.44,2.5,Laptop,76.8,Entertainment+ Data,499,5G,VI
+Abiman,66,9480726991,Abima@710,IT sector,Villupuram,3.9,3993.6,2,Laptop,117,Unlimited+ OTT,399,5G,Jio
+Tanisha,68,7524357552,Tanis@027,Freelancer,Ariyalur,2.26,2314.24,2,Tablet,67.8,Unlimited+ OTT,399,5G,Jio
+Boobendar,43,8257294879,Boobe@246,Unemployed,Salem,3.7,3788.8,1.5,Laptop,111,Basic+ Calls,299,4G,Airtel
+Anishmaran,34,8585031988,Anish@175,Doctor,Ariyalur,0.32,327.68,1,Smartphone,9.6,Standard Plan,199,5G,BSNL
+Siranjeevi,53,9577314012,Siran@363,Student,Virudhunagar,4.99,5109.76,2.5,Tablet,149.7,Entertainment+ Data,499,5G,VI
+Amitabh,41,6651700269,Amita@565,Student,Namakkal,0.96,983.04,2,Television,28.8,Unlimited+ OTT,399,4G,Jio
+Amitash,44,6691585026,Amita@797,IT sector,Thanjavur,0.69,706.56,2.5,Television,20.7,Entertainment+ Data,499,5G,VI
+Gokulapriya,33,7694261288,Gokul@822,Other Professionals,Theni,3.3,3379.2,2.5,Smartphone,99,Entertainment+ Data,499,4G,VI
+Supriya,29,6549672271,Supri@704,Unemployed,Dharmapuri,0.27,276.48,1.5,Television,8.1,Basic+ Calls,299,5G,Airtel
+Suprith,52,6214793508,Supri@013,Doctor,Kanchipuram,3.94,4034.56,2.5,Television,118.2,Entertainment+ Data,499,4G,VI
+Chandra,28,8830551129,Chand@367,Doctor,Ramanathapuram,4.99,5109.76,2.5,Laptop,149.7,Entertainment+ Data,499,4G,VI
+Yaminidevi,51,6624012426,Yamin@516,Doctor,Coimbatore,1.49,1525.76,2,Television,44.7,Unlimited+ OTT,399,4G,Jio
+Arya,62,8334101743,AryaL@876,Unemployed,Dindigul,4.14,4239.36,2.5,Tablet,124.2,Entertainment+ Data,499,5G,VI
+Sayeesha,41,9282339659,Sayee@274,IT sector,Tiruvannamalai,4.04,4136.96,1.5,Smartphone,121.2,Basic+ Calls,299,5G,Airtel
+Arav,60,6347818435,Aravk@849,Other Professionals,Ramanathapuram,2.79,2856.96,1.5,Television,83.7,Basic+ Calls,299,5G,Airtel
+Harishkalyan,58,9930873444,Haris@754,Doctor,Dindigul,2.52,2580.48,1.5,Smartphone,75.6,Basic+ Calls,299,4G,Airtel
+Dhruv,59,9505857632,Dhruv@504,Freelancer,Thoothukudi,2.41,2467.84,2.5,Television,72.3,Entertainment+ Data,499,4G,VI
+Devaraj,24,6606793471,Devar@523,Doctor,Tiruppur,4.96,5079.04,2.5,Tablet,148.8,Entertainment+ Data,499,4G,VI
+Devara,64,7428513815,Devar@785,Other Professionals,Salem,4.27,4372.48,1.5,Smartphone,128.1,Basic+ Calls,299,4G,Airtel
+Jhanvi,44,9285747639,Jhanv@079,IT sector,Krishnagiri,2.73,2795.52,1.5,Television,81.9,Basic+ Calls,299,4G,Airtel
+Kapoor,24,8740251917,Kapoo@235,Retiree,Ariyalur,2.86,2928.64,1,Television,85.8,Standard Plan,199,4G,BSNL
+Nakul,38,8339020085,Nakul@615,Unemployed,Thiruvarur,2.53,2590.72,2,Smartphone,75.9,Unlimited+ OTT,399,5G,Jio
+Mythili,26,9245847182,Mythi@618,Doctor,Salem,2.01,2058.24,1,Smartphone,60.3,Standard Plan,199,4G,BSNL
+Abinaya,48,8561312842,Abina@597,Retiree,Nilgiris,3.18,3256.32,2.5,Television,95.4,Entertainment+ Data,499,5G,VI
+Leenaroshni,67,7226654916,Leena@545,Student,Nagapattinam,2.68,2744.32,1.5,Smartphone,80.4,Basic+ Calls,299,5G,Airtel
+Krithika,67,8920559733,Krith@001,IT sector,Tiruvannamalai,1.71,1751.04,1.5,Tablet,51.3,Basic+ Calls,299,5G,Airtel
+Chelli,60,7471176792,Chell@919,Unemployed,Nilgiris,0.9,921.6,1.5,Tablet,27,Basic+ Calls,299,5G,Airtel
+Dinolini,54,9297689166,Dinol@856,Teacher,Thanjavur,3.84,3932.16,1,Television,115.2,Standard Plan,199,4G,BSNL
+Aslin,60,8852531164,Aslin@220,Freelancer,Theni,2.84,2908.16,1,Smartphone,85.2,Standard Plan,199,4G,BSNL
+Jeba,31,8730291973,Jebaw@972,Freelancer,Erode,1.3,1331.2,1,Television,39,Standard Plan,199,4G,BSNL
+Kowsi,68,6876803449,Kowsi@041,Doctor,Namakkal,1.62,1658.88,1.5,Smartphone,48.6,Basic+ Calls,299,4G,Airtel
+Pandiamma,60,6333425300,Pandi@186,Student,Thiruvarur,0.85,870.4,1,Tablet,25.5,Standard Plan,199,5G,BSNL
+Jacklin,56,9342705771,Jackl@015,Unemployed,Krishnagiri,2.8,2867.2,1.5,Television,84,Basic+ Calls,299,4G,Airtel
+Kamesh,54,9154304044,Kames@763,Freelancer,Cuddalore,2.34,2396.16,2.5,Tablet,70.2,Entertainment+ Data,499,5G,VI
+Rohini,57,9566688853,Rohin@773,IT sector,Thoothukudi,2.67,2734.08,1,Tablet,80.1,Standard Plan,199,4G,BSNL
+Sandy,60,7490461964,Sandy@735,Student,Ariyalur,4.98,5099.52,1,Smartphone,149.4,Standard Plan,199,4G,BSNL
+Prajan,40,8891933022,Praja@980,Other Professionals,Thanjavur,0.27,276.48,2,Smartphone,8.1,Unlimited+ OTT,399,4G,Jio
+Kushi,54,7381048637,Kushi@009,Other Professionals,Virudhunagar,4.03,4126.72,1,Smartphone,120.9,Standard Plan,199,4G,BSNL
+Kabir,68,9837006976,Kabir@312,Teacher,Villupuram,2.81,2877.44,2.5,Tablet,84.3,Entertainment+ Data,499,4G,VI
+Pranav,34,8921509713,Prana@074,Teacher,Tirunelveli,4.43,4536.32,1,Television,132.9,Standard Plan,199,4G,BSNL
+Sneha,38,8860238072,Sneha@508,Retiree,Namakkal,4.66,4771.84,2.5,Tablet,139.8,Entertainment+ Data,499,5G,VI
+Disha,29,9617603355,Disha@113,Student,Salem,1.85,1894.4,2,Tablet,55.5,Unlimited+ OTT,399,5G,Jio
+Mary,48,8286703141,Maryk@040,Retiree,Sivagangai,1.48,1515.52,2,Television,44.4,Unlimited+ OTT,399,5G,Jio
+Veda,59,6866374014,Vedam@115,IT sector,Ariyalur,4.4,4505.6,1.5,Television,132,Basic+ Calls,299,5G,Airtel
+Simran,49,9568974787,Simra@380,Teacher,Chennai,1.54,1576.96,2,Smartphone,46.2,Unlimited+ OTT,399,5G,Jio
+jacky,34,6210086592,jacky@102,Freelancer,Chennai,1.99,2037.76,2,Smartphone,59.7,Unlimited+ OTT,399,4G,Jio
+JimiCortan,32,8343610834,JimiC@163,Freelancer,Namakkal,2.64,2703.36,2,Television,79.2,Unlimited+ OTT,399,4G,Jio
+Meenakshi,43,8245630569,Meena@449,Freelancer,Thiruvallur,0.74,757.76,1.5,Television,22.2,Basic+ Calls,299,5G,Airtel
+Nafilia,61,8142327397,Nafil@256,Doctor,Tirunelveli,4.19,4290.56,1.5,Television,125.7,Basic+ Calls,299,4G,Airtel
+Sudarshana,25,7996029456,Sudar@936,Freelancer,Ariyalur,3.15,3225.6,2,Laptop,94.5,Unlimited+ OTT,399,5G,Jio
+Sandra,64,7941830469,Sandr@905,Other Professionals,Thiruvarur,3.49,3573.76,1.5,Television,104.7,Basic+ Calls,299,4G,Airtel
+Santolina,33,6811054339,Santo@308,Unemployed,Chennai,1.3,1331.2,2.5,Television,39,Entertainment+ Data,499,4G,VI
+Shaipani,43,8754358343,Shaip@345,IT sector,Chennai,1.27,1300.48,1.5,Smartphone,38.1,Basic+ Calls,299,5G,Airtel
+Makarina,40,8978080776,Makar@831,Unemployed,Krishnagiri,0.66,675.84,1,Smartphone,19.8,Standard Plan,199,4G,BSNL
+Junaid,46,9367538927,Junai@791,Doctor,Nilgiris,4.91,5027.84,2.5,Tablet,147.3,Entertainment+ Data,499,5G,VI
+Pavithra,42,7777605784,Pavit@295,Teacher,Dharmapuri,3.52,3604.48,2,Laptop,105.6,Unlimited+ OTT,399,5G,Jio
+Kavithalaya,32,6816143487,Kavit@362,Unemployed,Theni,0.41,419.84,1.5,Tablet,12.3,Basic+ Calls,299,5G,Airtel
+Santhoshi,23,8726329849,Santh@639,Unemployed,Pudukkottai,2.19,2242.56,1.5,Tablet,65.7,Basic+ Calls,299,4G,Airtel
+Urmila,60,9845889777,Urmil@734,IT sector,Pudukkottai,1.59,1628.16,2.5,Smartphone,47.7,Entertainment+ Data,499,5G,VI
+Nagaraj,32,8494336543,Nagar@608,Teacher,Pudukkottai,1.46,1495.04,1.5,Television,43.8,Basic+ Calls,299,5G,Airtel
+Suwetha,56,9434297602,Suwet@623,Unemployed,Erode,0.57,583.68,2.5,Laptop,17.1,Entertainment+ Data,499,5G,VI
+Swethini,50,8310166318,Sweth@714,Doctor,Perambalur,3.61,3696.64,2.5,Television,108.3,Entertainment+ Data,499,4G,VI
+Kanan,18,6380480315,Kanan@088,Unemployed,Coimbatore,1.12,1146.88,2.5,Laptop,33.6,Entertainment+ Data,499,4G,VI
+Thalapathy,40,8210623665,Thala@936,Other Professionals,Ramanathapuram,2.07,2119.68,2,Laptop,62.1,Unlimited+ OTT,399,4G,Jio
+Lukash,53,8907842032,Lukas@031,Freelancer,Perambalur,0.62,634.88,2.5,Laptop,18.6,Entertainment+ Data,499,5G,VI
+Lebrio,33,8586329112,Lebri@435,Teacher,Thanjavur,4.74,4853.76,2.5,Laptop,142.2,Entertainment+ Data,499,5G,VI
+Mascarnaz,46,8662740533,Masca@794,Other Professionals,Tiruvannamalai,2.36,2416.64,1,Smartphone,70.8,Standard Plan,199,4G,BSNL
+Shayan,58,9576262275,Shaya@952,Freelancer,Vellore,4.42,4526.08,1,Laptop,132.6,Standard Plan,199,4G,BSNL
+shyam,54,8295627584,shyam@711,Freelancer,Virudhunagar,0.44,450.56,1,Tablet,13.2,Standard Plan,199,5G,BSNL
+Shalinidevi,59,8607676483,Shali@638,Freelancer,Dindigul,2.32,2375.68,1,Television,69.6,Standard Plan,199,5G,BSNL
+Naveetha,65,8198666908,Navee@268,Freelancer,Sivagangai,4.16,4259.84,1,Laptop,124.8,Standard Plan,199,5G,BSNL
+Nivin,69,6770932380,Nivin@963,Teacher,Dindigul,3.35,3430.4,2.5,Tablet,100.5,Entertainment+ Data,499,5G,VI
+Raju,23,8312698381,RajuR@614,Teacher,Thiruvallur,4.85,4966.4,1.5,Laptop,145.5,Basic+ Calls,299,4G,Airtel
+Dhanvanth,66,7920350052,Dhanv@183,Unemployed,Nilgiris,4.33,4433.92,2,Smartphone,129.9,Unlimited+ OTT,399,5G,Jio
+Dinesha,24,7264296081,Dines@666,Other Professionals,Madurai,0.2,204.8,1.5,Smartphone,6,Basic+ Calls,299,4G,Airtel
+Durairaj,67,6969054605,Durai@984,Student,Namakkal,3.5,3584,1.5,Tablet,105,Basic+ Calls,299,4G,Airtel
+Dikashama,59,7936649169,Dikas@007,Freelancer,Dharmapuri,0.68,696.32,2,Tablet,20.4,Unlimited+ OTT,399,4G,Jio
+Mathivandana,62,8510464323,Mathi@049,Teacher,Krishnagiri,3.87,3962.88,1.5,Television,116.1,Basic+ Calls,299,5G,Airtel
+Baba,32,7203866701,Babar@070,IT sector,Karur,3.52,3604.48,1.5,Laptop,105.6,Basic+ Calls,299,4G,Airtel
+Hussain,48,8954682439,Hussa@549,Student,Nilgiris,0.41,419.84,2.5,Tablet,12.3,Entertainment+ Data,499,4G,VI
+Maculin,19,6785609300,Macul@216,Teacher,Coimbatore,4.98,5099.52,1,Smartphone,149.4,Standard Plan,199,4G,BSNL
+Soori,55,9369243616,Soori@857,Doctor,Nagapattinam,1.35,1382.4,2,Tablet,40.5,Unlimited+ OTT,399,5G,Jio
+Nambiyar,28,9338461687,Nambi@952,Doctor,Ariyalur,4.29,4392.96,1.5,Laptop,128.7,Basic+ Calls,299,4G,Airtel
+Suriyan,28,9602145726,Suriy@266,Retiree,Thanjavur,4.02,4116.48,2,Smartphone,120.6,Unlimited+ OTT,399,5G,Jio
+Krishanan,31,6905094247,Krish@791,Other Professionals,Tiruppur,2.87,2938.88,1.5,Laptop,86.1,Basic+ Calls,299,5G,Airtel
+Suriya,33,6813347695,Suriy@560,Freelancer,Thoothukudi,0.7,716.8,1.5,Tablet,21,Basic+ Calls,299,5G,Airtel
+Jay,62,7432413662,Jayuu@812,Teacher,Vellore,3.96,4055.04,1,Tablet,118.8,Standard Plan,199,4G,BSNL
+Jayashree,50,7477660510,Jayas@230,Teacher,Vellore,1.93,1976.32,1,Television,57.9,Standard Plan,199,4G,BSNL
+Jayamravi,23,9804908396,Jayam@803,Other Professionals,Nilgiris,0.37,378.88,2.5,Television,11.1,Entertainment+ Data,499,4G,VI
+Saindhavi,43,6506003790,Saind@188,Teacher,Tiruchirappalli,1.97,2017.28,1,Smartphone,59.1,Standard Plan,199,4G,BSNL
+Shradha,18,6318403162,Shrad@938,Teacher,Cuddalore,3.15,3225.6,2,Television,94.5,Unlimited+ OTT,399,4G,Jio
+Saradha,28,9522549037,Sarad@375,Freelancer,Tiruvannamalai,1.3,1331.2,2.5,Laptop,39,Entertainment+ Data,499,4G,VI
+Bavithra,21,6841325453,Bavit@609,Teacher,Vellore,3.77,3860.48,1.5,Smartphone,113.1,Basic+ Calls,299,4G,Airtel
+Kalam,28,8175151464,Kalam@604,Other Professionals,Tiruppur,2.37,2426.88,2,Television,71.1,Unlimited+ OTT,399,5G,Jio
+Nathan,35,9430732669,Natha@296,Student,Virudhunagar,0.93,952.32,1,Television,27.9,Standard Plan,199,4G,BSNL
+Limbra,31,7195396713,Limbr@764,Student,Cuddalore,3.73,3819.52,2.5,Television,111.9,Entertainment+ Data,499,4G,VI
+Tejas,56,6181963362,Tejas@324,Doctor,Tiruppur,2.48,2539.52,2,Smartphone,74.4,Unlimited+ OTT,399,5G,Jio
+Krithi,27,7846827376,Krith@028,Other Professionals,Krishnagiri,4.46,4567.04,1.5,Television,133.8,Basic+ Calls,299,5G,Airtel
+Tomy,69,9534183651,Tomyo@532,Retiree,Tiruvannamalai,1.57,1607.68,1.5,Television,47.1,Basic+ Calls,299,4G,Airtel
+Banarya,52,6109324616,Banar@460,Unemployed,Tiruchirappalli,1.32,1351.68,2,Laptop,39.6,Unlimited+ OTT,399,5G,Jio
+Jackin,44,6498920188,Jacki@026,Other Professionals,Erode,1.48,1515.52,2,Television,44.4,Unlimited+ OTT,399,4G,Jio
+Lakshu,37,8346564535,Laksh@581,Doctor,Virudhunagar,1.71,1751.04,2,Laptop,51.3,Unlimited+ OTT,399,5G,Jio
+Ruth,28,9895957149,Ruthk@885,Student,Villupuram,2.98,3051.52,1.5,Tablet,89.4,Basic+ Calls,299,5G,Airtel
+Elisabeth,22,8252654619,Elisa@628,Retiree,Tiruvannamalai,4.75,4864,1,Smartphone,142.5,Standard Plan,199,4G,BSNL
+Mark,69,8932254908,Marka@753,Freelancer,Sivagangai,1.69,1730.56,2.5,Smartphone,50.7,Entertainment+ Data,499,5G,VI
+Imran,25,6649824256,Imran@585,Student,Thiruvarur,3.24,3317.76,2.5,Tablet,97.2,Entertainment+ Data,499,5G,VI
+Noor Jahan,30,9101057675,Noor @363,Other Professionals,Tiruvannamalai,3.83,3921.92,1.5,Laptop,114.9,Basic+ Calls,299,5G,Airtel
+Jenewar,24,9432513294,Jenew@578,Other Professionals,Tiruppur,1.72,1761.28,2.5,Laptop,51.6,Entertainment+ Data,499,5G,VI
+Prenjal,43,7758350647,Prenj@514,Freelancer,Kanchipuram,1.8,1843.2,1,Smartphone,54,Standard Plan,199,4G,BSNL
+Amrith,30,7273554587,Amrit@689,Teacher,Virudhunagar,0.79,808.96,1.5,Television,23.7,Basic+ Calls,299,4G,Airtel
+Nidhi,53,7211287746,Nidhi@537,Other Professionals,Tirunelveli,4.97,5089.28,1,Laptop,149.1,Standard Plan,199,4G,BSNL
+Naina,18,9856220789,Naina@197,Retiree,Madurai,3.86,3952.64,2,Laptop,115.8,Unlimited+ OTT,399,4G,Jio
+Lalli,22,6582805431,Lalli@444,Teacher,Cuddalore,3.23,3307.52,2,Television,96.9,Unlimited+ OTT,399,5G,Jio
+Ishan,37,8169284283,Ishan@457,Other Professionals,Perambalur,4.58,4689.92,2.5,Laptop,137.4,Entertainment+ Data,499,5G,VI
+Kishan,50,6887163970,Kisha@430,Freelancer,Kanchipuram,4.28,4382.72,2.5,Laptop,128.4,Entertainment+ Data,499,5G,VI
+Sarma,25,9241476038,Sarma@321,Other Professionals,Krishnagiri,4.02,4116.48,1.5,Laptop,120.6,Basic+ Calls,299,4G,Airtel
+Vikram Singh,70,7855224777,Vikra@915,Student,Tirunelveli,3,3072,2,Laptop,90,Unlimited+ OTT,399,4G,Jio
+Meher,36,9405831066,Meher@105,Other Professionals,Tiruppur,4.65,4761.6,2,Smartphone,139.5,Unlimited+ OTT,399,5G,Jio
+Fathiam,68,8219586279,Fathi@785,Teacher,Dharmapuri,0.48,491.52,1.5,Tablet,14.4,Basic+ Calls,299,5G,Airtel
+Begam,63,8841922007,Begam@489,Student,Villupuram,1.95,1996.8,1,Smartphone,58.5,Standard Plan,199,4G,BSNL
+Pallavi,50,9107534960,Palla@820,Student,Chennai,4.61,4720.64,1,Television,138.3,Standard Plan,199,4G,BSNL
+SaiPallavi,60,8124734160,SaiPa@004,Other Professionals,Chennai,3.43,3512.32,1.5,Tablet,102.9,Basic+ Calls,299,5G,Airtel
+Harshaya,33,6181144130,Harsh@059,Retiree,Virudhunagar,0.5,512,2,Smartphone,15,Unlimited+ OTT,399,4G,Jio
+Cheran,49,7360131370,Chera@836,Student,Erode,3.86,3952.64,2,Smartphone,115.8,Unlimited+ OTT,399,4G,Jio
+Selva,33,8300594156,Selva@507,IT sector,Sivagangai,0.52,532.48,1.5,Laptop,15.6,Basic+ Calls,299,5G,Airtel
+MonishKanan,35,9571623291,Monis@149,Other Professionals,Karur,1.25,1280,2.5,Television,37.5,Entertainment+ Data,499,5G,VI
+SamiraSherif,48,8270635343,Samir@205,Doctor,Karur,4.41,4515.84,1.5,Smartphone,132.3,Basic+ Calls,299,5G,Airtel
+Kanishka,30,8471832350,Kanis@464,Freelancer,Namakkal,4.02,4116.48,2,Smartphone,120.6,Unlimited+ OTT,399,5G,Jio
+Pranisha,39,9306716496,Prani@984,Student,Tirunelveli,4.43,4536.32,2.5,Smartphone,132.9,Entertainment+ Data,499,5G,VI
+Saminathan,68,6725432704,Samin@235,Unemployed,Krishnagiri,2.95,3020.8,1,Laptop,88.5,Standard Plan,199,5G,BSNL
+Datchayani,47,9694191414,Datch@090,Retiree,Villupuram,1.68,1720.32,2,Smartphone,50.4,Unlimited+ OTT,399,5G,Jio
+Shreeram,32,9750096904,Shree@055,IT sector,Tiruchirappalli,0.3,307.2,1.5,Smartphone,9,Basic+ Calls,299,5G,Airtel
+Sibi,21,7250996640,SibiA@977,Freelancer,Coimbatore,0.67,686.08,2,Smartphone,20.1,Unlimited+ OTT,399,5G,Jio
+Nishitha,28,8271117033,Nishi@127,Retiree,Tiruvannamalai,1.67,1710.08,2.5,Smartphone,50.1,Entertainment+ Data,499,4G,VI
+Gerlin,37,6332104291,Gerli@230,Doctor,Krishnagiri,3.65,3737.6,1.5,Smartphone,109.5,Basic+ Calls,299,4G,Airtel
+Sebastin,62,8281273230,Sebas@473,Other Professionals,Cuddalore,0.42,430.08,1,Laptop,12.6,Standard Plan,199,4G,BSNL
+Surya,63,6886183522,Surya@421,Freelancer,Ramanathapuram,4.98,5099.52,1,Smartphone,149.4,Standard Plan,199,5G,BSNL
+Subitha,63,6467446888,Subit@939,Other Professionals,Karur,4.53,4638.72,1,Television,135.9,Standard Plan,199,5G,BSNL
+Sabhitha,28,6647737930,Sabhi@816,Doctor,Karur,2.16,2211.84,1.5,Television,64.8,Basic+ Calls,299,5G,Airtel
+Raji,68,7217436026,RajiI@748,Other Professionals,Ariyalur,3.5,3584,1.5,Television,105,Basic+ Calls,299,4G,Airtel
+Sajji,60,8367373111,Sajji@091,Retiree,Chennai,2.8,2867.2,1,Tablet,84,Standard Plan,199,5G,BSNL
+Chetana,47,6596302185,Cheta@440,Teacher,Chennai,1.88,1925.12,2,Laptop,56.4,Unlimited+ OTT,399,5G,Jio
+Kessin,29,8353703878,Kessi@587,Student,Tiruvannamalai,1.19,1218.56,2,Smartphone,35.7,Unlimited+ OTT,399,5G,Jio
+Martin,44,8522910265,Marti@217,Doctor,Tirunelveli,3.45,3532.8,1,Laptop,103.5,Standard Plan,199,4G,BSNL
+SelvaKumar,26,7376381282,Selva@147,IT sector,Nilgiris,3.4,3481.6,2,Smartphone,102,Unlimited+ OTT,399,5G,Jio
+Luthur,48,7430432456,Luthu@081,Other Professionals,Nilgiris,3.43,3512.32,1,Television,102.9,Standard Plan,199,5G,BSNL
+King,49,8162583605,Kingf@442,Student,Namakkal,3.43,3512.32,2.5,Laptop,102.9,Entertainment+ Data,499,4G,VI
+Nila,58,7849741394,NilaS@116,Teacher,Erode,2.41,2467.84,2,Television,72.3,Unlimited+ OTT,399,4G,Jio
+Sahana,26,8379983400,Sahan@068,IT sector,Cuddalore,4.25,4352,2.5,Laptop,127.5,Entertainment+ Data,499,4G,VI
+Sanjitha,31,6295143676,Sanji@662,Teacher,Sivagangai,0.94,962.56,1,Tablet,28.2,Standard Plan,199,5G,BSNL
+Dakshin ,45,7895111503,Daksh@531,Doctor,Karur,1.75,1792,2,Tablet,52.5,Unlimited+ OTT,399,4G,Jio
+Takina,70,9257970906,Takin@250,Other Professionals,Namakkal,3.7,3788.8,2.5,Smartphone,111,Entertainment+ Data,499,4G,VI
+Teena ,26,8682224986,Teena@433,Retiree,Cuddalore,2.51,2570.24,2,Smartphone,75.3,Unlimited+ OTT,399,5G,Jio
+Tayana,51,7412427155,Tayan@085,Student,Vellore,0.78,798.72,2.5,Laptop,23.4,Entertainment+ Data,499,4G,VI
+Jiya,32,9422867150,JiyaZ@698,Other Professionals,Sivagangai,1.87,1914.88,2.5,Television,56.1,Entertainment+ Data,499,4G,VI
+Anjali,58,6746352277,Anjal@967,Retiree,Erode,4.11,4208.64,2.5,Smartphone,123.3,Entertainment+ Data,499,5G,VI
+Ahana,64,9201425508,Ahana@626,IT sector,Thanjavur,0.93,952.32,2,Tablet,27.9,Unlimited+ OTT,399,5G,Jio
+Swetha,48,6948772040,Sweth@343,Teacher,Perambalur,2.28,2334.72,2,Television,68.4,Unlimited+ OTT,399,4G,Jio
+Rishinatan,58,6820724361,Rishi@942,Retiree,Erode,2.83,2897.92,2.5,Tablet,84.9,Entertainment+ Data,499,5G,VI
+Rishantene,47,8938195454,Risha@462,IT sector,Sivagangai,1.45,1484.8,1.5,Television,43.5,Basic+ Calls,299,5G,Airtel
+Anshi,44,8579691886,Anshi@017,Retiree,Thiruvarur,2.62,2682.88,1,Laptop,78.6,Standard Plan,199,5G,BSNL
+Tanya,51,6179076197,Tanya@290,IT sector,Ramanathapuram,1.89,1935.36,1,Laptop,56.7,Standard Plan,199,5G,BSNL
+Franklin,36,7537595216,Frank@039,Other Professionals,Vellore,4.66,4771.84,1,Tablet,139.8,Standard Plan,199,4G,BSNL
+Tifith,47,7218389718,Tifit@297,Freelancer,Tiruvannamalai,1.74,1781.76,2.5,Smartphone,52.2,Entertainment+ Data,499,4G,VI
+Rose,34,9310013325,Rosew@242,Teacher,Erode,3.68,3768.32,2.5,Smartphone,110.4,Entertainment+ Data,499,4G,VI
+Sofia,55,7554670262,Sofia@225,Student,Kallakurichi,2.84,2908.16,1.5,Smartphone,85.2,Basic+ Calls,299,5G,Airtel
+Emley,31,9602242947,Emley@657,IT sector,Tiruppur,4.02,4116.48,2.5,Tablet,120.6,Entertainment+ Data,499,4G,VI
+Dora,46,9202068216,Doraj@717,Student,Dharmapuri,2.54,2600.96,2.5,Television,76.2,Entertainment+ Data,499,5G,VI
+Jerry,22,9766752080,Jerry@295,Retiree,Vellore,4.81,4925.44,2.5,Laptop,144.3,Entertainment+ Data,499,5G,VI
+Savi,46,9483147309,SaviG@257,Student,Perambalur,1,1024,1,Television,30,Standard Plan,199,4G,BSNL
+Anu,25,9995800260,Anugg@875,Doctor,Karur,3.78,3870.72,1.5,Smartphone,113.4,Basic+ Calls,299,5G,Airtel
+Lucy,60,8567869183,LucyN@568,Doctor,Thiruvarur,1.75,1792,1.5,Television,52.5,Basic+ Calls,299,4G,Airtel
+Ruby,63,7350772921,Rubyf@510,Doctor,Ramanathapuram,1.8,1843.2,2,Laptop,54,Unlimited+ OTT,399,4G,Jio
+Ahana,58,6308575207,Ahana@232,Retiree,Theni,2.57,2631.68,1,Laptop,77.1,Standard Plan,199,5G,BSNL
+Charlon,47,7761661757,Charl@274,Teacher,Virudhunagar,0.42,430.08,2,Tablet,12.6,Unlimited+ OTT,399,4G,Jio
+Lily,46,8130263636,Lilyc@978,Doctor,Namakkal,1.44,1474.56,2,Television,43.2,Unlimited+ OTT,399,4G,Jio
+Isabel,60,7314808543,Isabe@935,Freelancer,Kallakurichi,3.05,3123.2,2,Tablet,91.5,Unlimited+ OTT,399,5G,Jio
+Rebecca,64,7213556979,Rebec@848,Other Professionals,Thanjavur,3.37,3450.88,2.5,Laptop,101.1,Entertainment+ Data,499,5G,VI
+Hana,25,6859137617,Hanao@966,Doctor,Nilgiris,0.96,983.04,1,Television,28.8,Standard Plan,199,4G,BSNL
+Henry,18,7736544483,Henry@232,Other Professionals,Thiruvallur,2.83,2897.92,2.5,Tablet,84.9,Entertainment+ Data,499,5G,VI
+Ashkar,57,8135671284,Ashka@773,Other Professionals,Thiruvarur,0.4,409.6,1,Smartphone,12,Standard Plan,199,5G,BSNL
+Daisy,67,9260050667,Daisy@891,Unemployed,Virudhunagar,4.08,4177.92,2.5,Television,122.4,Entertainment+ Data,499,5G,VI
+Max,41,7770113835,MaxKK@426,Student,Madurai,3.27,3348.48,1.5,Smartphone,98.1,Basic+ Calls,299,4G,Airtel
+Ben,24,7298817034,BenLL@152,Freelancer,Chennai,3.09,3164.16,1.5,Television,92.7,Basic+ Calls,299,5G,Airtel
+Caissan,27,9484305414,Caiss@332,Retiree,Tirunelveli,0.57,583.68,2.5,Television,17.1,Entertainment+ Data,499,5G,VI
+Guruprakash,68,7702304391,Gurup@720,Other Professionals,Kallakurichi,4.3,4403.2,2,Tablet,129,Unlimited+ OTT,399,5G,Jio
+Olivia,26,7371093042,Olivi@414,Other Professionals,Tiruppur,1.24,1269.76,2.5,Laptop,37.2,Entertainment+ Data,499,4G,VI
+Emily,56,9907002542,Emily@520,Other Professionals,Nagapattinam,3.88,3973.12,2.5,Television,116.4,Entertainment+ Data,499,5G,VI
+George,25,6943455470,Georg@490,Doctor,Coimbatore,4,4096,2,Smartphone,120,Unlimited+ OTT,399,4G,Jio
+Rubis,59,6590049334,Rubis@999,Doctor,Nilgiris,0.89,911.36,1,Television,26.7,Standard Plan,199,4G,BSNL
+Viillium,18,8844533024,Viill@700,Unemployed,Pudukkottai,0.4,409.6,2.5,Laptop,12,Entertainment+ Data,499,4G,VI
+Shakespeare,37,8291259329,Shake@669,Doctor,Pudukkottai,3.52,3604.48,2.5,Smartphone,105.6,Entertainment+ Data,499,4G,VI
+Tanya,50,7635343593,Tanya@554,Unemployed,Namakkal,2.96,3031.04,1,Laptop,88.8,Standard Plan,199,5G,BSNL
+Rowling,25,8466125655,Rowli@111,Student,Krishnagiri,4.6,4710.4,2.5,Television,138,Entertainment+ Data,499,4G,VI
+RayanGowslin,70,8568201734,Rayan@838,IT sector,Nagapattinam,3.02,3092.48,1,Tablet,90.6,Standard Plan,199,4G,BSNL
+Selvarani,70,8325119275,Selva@101,Freelancer,Theni,3.39,3471.36,2,Television,101.7,Unlimited+ OTT,399,4G,Jio
+Selvaraj,52,9659717789,Selva@503,Student,Pudukkottai,0.73,747.52,2.5,Tablet,21.9,Entertainment+ Data,499,4G,VI
+Lokesh,26,8593377797,Lokes@515,Doctor,Pudukkottai,1.06,1085.44,1,Television,31.8,Standard Plan,199,5G,BSNL
+Kanagaraj,59,8213722916,Kanag@386,Unemployed,Tiruppur,2.97,3041.28,2,Laptop,89.1,Unlimited+ OTT,399,5G,Jio
+Varghese,40,6864386709,Vargh@133,Retiree,Cuddalore,2.7,2764.8,2,Television,81,Unlimited+ OTT,399,5G,Jio
+Ethen,48,6688066214,Ethen@302,Student,Kanchipuram,3.14,3215.36,1,Tablet,94.2,Standard Plan,199,5G,BSNL
+Kim,34,6794828296,KimII@477,Unemployed,Perambalur,0.23,235.52,2.5,Television,6.9,Entertainment+ Data,499,5G,VI
+Watsan,32,6718267123,Watsa@435,Doctor,Karur,3.93,4024.32,1,Television,117.9,Standard Plan,199,4G,BSNL
+Sara,69,7801969346,SaraU@389,Student,Nagapattinam,4.04,4136.96,1.5,Television,121.2,Basic+ Calls,299,4G,Airtel
+Yuvan,64,6616869815,Yuvan@128,Retiree,Sivagangai,2.01,2058.24,2.5,Tablet,60.3,Entertainment+ Data,499,5G,VI
+Darshan,66,8538376485,Darsh@175,Unemployed,Tiruchirappalli,4.98,5099.52,2,Television,149.4,Unlimited+ OTT,399,4G,Jio
+Adithi,69,7962598359,Adith@648,Doctor,Namakkal,3.57,3655.68,1.5,Smartphone,107.1,Basic+ Calls,299,4G,Airtel
+Kiara,51,9619008521,Kiara@416,IT sector,Tiruvannamalai,4.28,4382.72,1,Laptop,128.4,Standard Plan,199,5G,BSNL
+Advani,39,7793225066,Advan@086,Other Professionals,Kallakurichi,1.74,1781.76,1,Tablet,52.2,Standard Plan,199,4G,BSNL
+Pari,35,7653597771,PariP@876,Unemployed,Thoothukudi,3.66,3747.84,2.5,Tablet,109.8,Entertainment+ Data,499,4G,VI
+Vedanth,27,6667699313,Vedan@905,Doctor,Thiruvallur,4.48,4587.52,1.5,Tablet,134.4,Basic+ Calls,299,5G,Airtel
+Srikanth,52,9298570778,Srika@636,Freelancer,Dharmapuri,4.72,4833.28,2,Television,141.6,Unlimited+ OTT,399,5G,Jio
+Sivanesh,21,7260973889,Sivan@701,Freelancer,Karur,2.8,2867.2,1.5,Tablet,84,Basic+ Calls,299,4G,Airtel
+Inaya,36,8196347228,Inaya@681,Freelancer,Ramanathapuram,4.77,4884.48,1,Smartphone,143.1,Standard Plan,199,5G,BSNL
+Iniya,35,9376325633,Iniya@458,Other Professionals,Dharmapuri,2.87,2938.88,2,Smartphone,86.1,Unlimited+ OTT,399,4G,Jio
+Hamdan,52,9988128463,Hamda@011,IT sector,Madurai,3.74,3829.76,2,Television,112.2,Unlimited+ OTT,399,4G,Jio
+Hassan ,19,7558474139,Hassa@994,Teacher,Sivagangai,0.18,184.32,1.5,Laptop,5.4,Basic+ Calls,299,5G,Airtel
+Tariq,35,6854085896,Tariq@967,Other Professionals,Coimbatore,3.59,3676.16,2,Television,107.7,Unlimited+ OTT,399,5G,Jio
+Daiwik,52,7927340110,Daiwi@630,Unemployed,Chennai,1.24,1269.76,2.5,Smartphone,37.2,Entertainment+ Data,499,5G,VI
+Tira,31,7717209064,TiraL@162,Other Professionals,Nagapattinam,0.69,706.56,1,Smartphone,20.7,Standard Plan,199,4G,BSNL
+Diya,32,9107770138,Diyak@257,Freelancer,Tiruchirappalli,1.66,1699.84,2.5,Television,49.8,Entertainment+ Data,499,5G,VI
+Dwindlim,48,6759540134,Dwind@518,Doctor,Nilgiris,1.84,1884.16,2,Smartphone,55.2,Unlimited+ OTT,399,5G,Jio
+Lwelyn,50,7266512619,Lwely@316,IT sector,Nagapattinam,2.38,2437.12,2.5,Television,71.4,Entertainment+ Data,499,4G,VI
+Shakira,58,6977417877,Shaki@438,Other Professionals,Krishnagiri,3.38,3461.12,1,Laptop,101.4,Standard Plan,199,5G,BSNL
+Shakila,56,8246398396,Shaki@241,Doctor,Dindigul,1.71,1751.04,2.5,Television,51.3,Entertainment+ Data,499,5G,VI
+Mayika,26,7862966120,Mayik@166,Other Professionals,Sivagangai,3.57,3655.68,2.5,Television,107.1,Entertainment+ Data,499,4G,VI
+Mahathi,41,7916915717,Mahat@769,Teacher,Cuddalore,4.89,5007.36,1.5,Smartphone,146.7,Basic+ Calls,299,5G,Airtel
+Mishika,22,9959178472,Mishi@076,Teacher,Tiruchirappalli,1.35,1382.4,1.5,Tablet,40.5,Basic+ Calls,299,5G,Airtel
+yeshitha,44,6797451397,yeshi@695,Doctor,Tiruppur,3.84,3932.16,2,Laptop,115.2,Unlimited+ OTT,399,4G,Jio
+Amaya,55,6961041571,Amaya@995,Freelancer,Tiruppur,1.99,2037.76,1.5,Television,59.7,Basic+ Calls,299,5G,Airtel
+Brighty,53,7659434338,Brigh@258,IT sector,Erode,4.85,4966.4,2.5,Television,145.5,Entertainment+ Data,499,4G,VI
+Salomi,30,9401812863,Salom@082,Teacher,Kanchipuram,0.46,471.04,2.5,Television,13.8,Entertainment+ Data,499,5G,VI
+Vandavani,65,6517025746,Vanda@537,Freelancer,Theni,4.62,4730.88,2,Tablet,138.6,Unlimited+ OTT,399,4G,Jio
+Dhandapani,30,9792703229,Dhand@402,IT sector,Thoothukudi,1.16,1187.84,2.5,Television,34.8,Entertainment+ Data,499,5G,VI
+Jaishika,63,9723650592,Jaish@351,IT sector,Tirunelveli,3.14,3215.36,1,Television,94.2,Standard Plan,199,5G,BSNL
+Joshika,36,9668819134,Joshi@559,Retiree,Namakkal,0.16,163.84,1.5,Laptop,4.8,Basic+ Calls,299,5G,Airtel
+Kannika,53,9479876756,Kanni@474,Unemployed,Perambalur,3.65,3737.6,1.5,Television,109.5,Basic+ Calls,299,5G,Airtel
+Snehan,41,7196072770,Sneha@929,Student,Tiruppur,2.65,2713.6,2.5,Laptop,79.5,Entertainment+ Data,499,5G,VI
+Gunaraj,69,9609053805,Gunar@716,IT sector,Cuddalore,0.78,798.72,2.5,Laptop,23.4,Entertainment+ Data,499,5G,VI
+Viyan,67,9906641172,Viyan@575,Freelancer,Virudhunagar,0.3,307.2,2.5,Laptop,9,Entertainment+ Data,499,4G,VI
+Viduvan,41,7333873121,Viduv@669,Retiree,Thanjavur,4.16,4259.84,1,Television,124.8,Standard Plan,199,4G,BSNL
+Catherine,34,6328018640,Cathe@329,Student,Tiruchirappalli,2.15,2201.6,1.5,Television,64.5,Basic+ Calls,299,5G,Airtel
+Nirmal,51,6672977430,Nirma@372,Doctor,Namakkal,3.51,3594.24,2,Television,105.3,Unlimited+ OTT,399,4G,Jio
+Dhivyabharathi,47,6366729652,Dhivy@130,Retiree,Tiruchirappalli,0.86,880.64,2.5,Smartphone,25.8,Entertainment+ Data,499,4G,VI
+Harinishree,64,9966574729,Harin@482,Other Professionals,Nagapattinam,2.9,2969.6,2.5,Smartphone,87,Entertainment+ Data,499,5G,VI
+joshitha,31,8782198270,joshi@128,Doctor,Vellore,1.41,1443.84,1,Tablet,42.3,Standard Plan,199,4G,BSNL
+Sakina,67,9118581137,Sakin@425,Unemployed,Nilgiris,1.23,1259.52,1,Television,36.9,Standard Plan,199,4G,BSNL
+Sameena,68,6372257734,Samee@481,IT sector,Pudukkottai,0.92,942.08,2,Tablet,27.6,Unlimited+ OTT,399,5G,Jio
+xavier,68,6755113047,xavie@317,Retiree,Tiruvannamalai,1.31,1341.44,2.5,Tablet,39.3,Entertainment+ Data,499,5G,VI
+Zarif,66,9828829833,Zarif@691,Freelancer,Salem,3.69,3778.56,1,Tablet,110.7,Standard Plan,199,4G,BSNL
+Benton,35,7172442529,Bento@176,Teacher,Salem,4.23,4331.52,2.5,Laptop,126.9,Entertainment+ Data,499,4G,VI
+Benedict,29,9353901933,Bened@787,Teacher,Namakkal,1.49,1525.76,2,Television,44.7,Unlimited+ OTT,399,4G,Jio
+Karan,44,8980847072,Karan@799,Retiree,Vellore,2.82,2887.68,2.5,Smartphone,84.6,Entertainment+ Data,499,4G,VI
+Rex Sherif,70,8763129415,Rex S@152,Teacher,Villupuram,3.97,4065.28,1,Laptop,119.1,Standard Plan,199,5G,BSNL
+Jebasto Alex,46,7150763660,Jebas@533,Student,Vellore,0.36,368.64,2,Laptop,10.8,Unlimited+ OTT,399,5G,Jio
+Casey Toni,61,8467635327,Casey@020,Teacher,Karur,4.03,4126.72,1.5,Laptop,120.9,Basic+ Calls,299,4G,Airtel
+Alex Jordan,26,9906127635,Alex @517,Doctor,Pudukkottai,1.06,1085.44,1.5,Smartphone,31.8,Basic+ Calls,299,4G,Airtel
+Morgan Casey,41,8516746053,Morga@277,Student,Thiruvallur,2.88,2949.12,1.5,Tablet,86.4,Basic+ Calls,299,5G,Airtel
+Prissila Jebasto,32,6510176307,Priss@334,IT sector,Krishnagiri,3.54,3624.96,2.5,Tablet,106.2,Entertainment+ Data,499,4G,VI
+Morgan Jordan,38,7364555766,Morga@337,Other Professionals,Coimbatore,4.61,4720.64,1.5,Tablet,138.3,Basic+ Calls,299,4G,Airtel
+Jordan Jordan,33,9358722011,Jorda@544,Other Professionals,Chennai,4.85,4966.4,2.5,Laptop,145.5,Entertainment+ Data,499,4G,VI
+Prissila Rex,20,9115347465,Priss@979,Freelancer,Ramanathapuram,0.48,491.52,2,Tablet,14.4,Unlimited+ OTT,399,5G,Jio
+Sherif Jordan,65,8716569304,Sheri@900,IT sector,Karur,4.28,4382.72,1,Tablet,128.4,Standard Plan,199,4G,BSNL
+Sherif Casey,47,8309048730,Sheri@296,Teacher,Virudhunagar,0.39,399.36,1,Smartphone,11.7,Standard Plan,199,5G,BSNL
+Casey Prissila,64,6946517982,Casey@074,Teacher,Coimbatore,3.24,3317.76,1.5,Television,97.2,Basic+ Calls,299,4G,Airtel
+Rex Jordan,23,9238330329,Rex J@079,Teacher,Tirunelveli,0.76,778.24,1,Tablet,22.8,Standard Plan,199,4G,BSNL
+Casey Sherif,22,7811898531,Casey@889,IT sector,Thoothukudi,1.51,1546.24,1.5,Laptop,45.3,Basic+ Calls,299,4G,Airtel
+Sherif Jordan,29,7849809741,Sheri@097,IT sector,Nilgiris,1.22,1249.28,1,Laptop,36.6,Standard Plan,199,4G,BSNL
+Jebasto Rex,62,6451937420,Jebas@540,Other Professionals,Coimbatore,2.54,2600.96,2,Laptop,76.2,Unlimited+ OTT,399,5G,Jio
+Casey Toni,59,7944981988,Casey@279,Other Professionals,Tirunelveli,1.75,1792,2,Television,52.5,Unlimited+ OTT,399,4G,Jio
+Rex Sherif,54,8692341669,Rex S@818,Unemployed,Theni,2.37,2426.88,2.5,Laptop,71.1,Entertainment+ Data,499,4G,VI
+Sherif Toni,60,9151835617,Sheri@285,Teacher,Thoothukudi,1.71,1751.04,1,Television,51.3,Standard Plan,199,4G,BSNL
+Jordan Alex,67,7795947909,Jorda@087,Freelancer,Chennai,4.11,4208.64,1,Laptop,123.3,Standard Plan,199,5G,BSNL
+Morgan Jordan,54,6108532727,Morga@090,Other Professionals,Nagapattinam,0.77,788.48,1,Tablet,23.1,Standard Plan,199,4G,BSNL
+Alex Alex,55,8907575464,Alex @581,Retiree,Karur,4.73,4843.52,2.5,Tablet,141.9,Entertainment+ Data,499,4G,VI
+Morgan Jebasto,23,9999705306,Morga@707,Teacher,Chennai,2.43,2488.32,1,Tablet,72.9,Standard Plan,199,5G,BSNL
+Prissila Jordan,50,9177022378,Priss@576,IT sector,Thiruvallur,1.86,1904.64,2.5,Smartphone,55.8,Entertainment+ Data,499,4G,VI
+Jordan Toni,70,9829800195,Jorda@871,Unemployed,Coimbatore,3.39,3471.36,2,Laptop,101.7,Unlimited+ OTT,399,5G,Jio
+Rex Rex,66,8279259166,Rex R@394,Other Professionals,Vellore,4.61,4720.64,2.5,Tablet,138.3,Entertainment+ Data,499,5G,VI
+Jordan Sherif,60,6139463728,Jorda@015,Retiree,Tirunelveli,3.49,3573.76,1,Smartphone,104.7,Standard Plan,199,4G,BSNL
+Alex Toni,39,7915034911,Alex @209,Freelancer,Cuddalore,3.91,4003.84,1.5,Laptop,117.3,Basic+ Calls,299,5G,Airtel
+Morgan Rex,31,9622792253,Morga@103,IT sector,Thoothukudi,0.97,993.28,2,Smartphone,29.1,Unlimited+ OTT,399,5G,Jio
+Sherif Prissila,30,7743655927,Sheri@108,Student,Perambalur,2.36,2416.64,1.5,Laptop,70.8,Basic+ Calls,299,5G,Airtel
+Sherif Casey,24,9225520245,Sheri@787,Other Professionals,Coimbatore,1.16,1187.84,1.5,Laptop,34.8,Basic+ Calls,299,5G,Airtel
+Toni Jebasto,55,6495587250,Toni @444,Freelancer,Coimbatore,0.69,706.56,2,Tablet,20.7,Unlimited+ OTT,399,5G,Jio
+Prissila Jordan,56,7291782624,Priss@958,Retiree,Ariyalur,0.65,665.6,1,Tablet,19.5,Standard Plan,199,4G,BSNL
+Casey Casey,39,8148707823,Casey@797,Student,Karur,0.7,716.8,2,Laptop,21,Unlimited+ OTT,399,4G,Jio
+Morgan Prissila,47,6903974939,Morga@138,IT sector,Virudhunagar,3.92,4014.08,2.5,Smartphone,117.6,Entertainment+ Data,499,5G,VI
+Jordan Sherif,20,6118303002,Jorda@564,Retiree,Namakkal,0.42,430.08,1.5,Tablet,12.6,Basic+ Calls,299,4G,Airtel
+Prissila Toni,23,8563785403,Priss@929,Student,Salem,1.04,1064.96,2,Tablet,31.2,Unlimited+ OTT,399,5G,Jio
+Jebasto Rex,46,7427525128,Jebas@976,Teacher,Nilgiris,3.25,3328,2.5,Tablet,97.5,Entertainment+ Data,499,5G,VI
+Rex Jebasto,64,6989002280,Rex J@674,Retiree,Thoothukudi,3.36,3440.64,2.5,Smartphone,100.8,Entertainment+ Data,499,5G,VI
+Alex Sherif,19,9164992456,Alex @179,Student,Dindigul,0.57,583.68,1,Television,17.1,Standard Plan,199,4G,BSNL
+Toni Alex,62,7694792842,Toni @411,Retiree,Nilgiris,1.75,1792,2.5,Tablet,52.5,Entertainment+ Data,499,5G,VI
+Rex Prissila,42,7581826306,Rex P@730,Freelancer,Tiruchirappalli,0.18,184.32,2,Tablet,5.4,Unlimited+ OTT,399,4G,Jio
+Alex Alex,38,6536298398,Alex @741,Doctor,Perambalur,1.09,1116.16,2.5,Laptop,32.7,Entertainment+ Data,499,4G,VI
+Morgan Alex,70,9634989854,Morga@163,Teacher,Nilgiris,4.66,4771.84,2,Laptop,139.8,Unlimited+ OTT,399,4G,Jio
+Toni Jebasto,26,6763989040,Toni @777,Retiree,Perambalur,2.63,2693.12,2,Laptop,78.9,Unlimited+ OTT,399,5G,Jio
+Sherif Casey,45,9481696414,Sheri@756,Student,Sivagangai,4.91,5027.84,1.5,Television,147.3,Basic+ Calls,299,5G,Airtel
+Rex Jordan,32,8271703509,Rex J@205,Freelancer,Pudukkottai,1.04,1064.96,1,Television,31.2,Standard Plan,199,4G,BSNL
+Jordan Jebasto,62,8726280741,Jorda@324,Freelancer,Thanjavur,3.83,3921.92,2,Television,114.9,Unlimited+ OTT,399,5G,Jio
+Sherif Morgan,43,9728514831,Sheri@202,Retiree,Erode,4.9,5017.6,2.5,Laptop,147,Entertainment+ Data,499,5G,VI
+Rex Casey,46,8665014770,Rex C@014,Student,Dindigul,4.16,4259.84,1.5,Smartphone,124.8,Basic+ Calls,299,5G,Airtel
+Morgan Morgan,70,7501471958,Morga@062,IT sector,Coimbatore,0.38,389.12,2.5,Television,11.4,Entertainment+ Data,499,5G,VI
+Rex Toni,56,8758196326,Rex T@221,Other Professionals,Salem,2.16,2211.84,2.5,Television,64.8,Entertainment+ Data,499,5G,VI
+Prissila Casey,34,6975833613,Priss@930,Teacher,Dharmapuri,3.6,3686.4,1.5,Television,108,Basic+ Calls,299,5G,Airtel
+Alex Jordan,45,8366905221,Alex @517,Teacher,Namakkal,4.67,4782.08,2,Tablet,140.1,Unlimited+ OTT,399,4G,Jio
+Thangaraj,64,7455652462,Thang@172,Other Professionals,Thoothukudi,1.24,1269.76,1.5,Smartphone,37.2,Basic+ Calls,299,5G,Airtel
+Thanikachalam,63,8774551282,Thani@570,Teacher,Pudukkottai,2.88,2949.12,1.5,Television,86.4,Basic+ Calls,299,5G,Airtel
+Tony roy,18,6974459170,Tony @240,Freelancer,Perambalur,1.31,1341.44,2,Smartphone,39.3,Unlimited+ OTT,399,4G,Jio
+Rahil,48,8209039739,Rahil@098,Freelancer,Dharmapuri,3.29,3368.96,2,Television,98.7,Unlimited+ OTT,399,4G,Jio
+Ahamad,25,7540348086,Ahama@462,Doctor,Pudukkottai,0.78,798.72,1,Tablet,23.4,Standard Plan,199,5G,BSNL
+Raju,69,6489913990,RajuZ@545,Teacher,Virudhunagar,0.96,983.04,1.5,Smartphone,28.8,Basic+ Calls,299,4G,Airtel
+Dheena,55,7244254601,Dheen@567,Other Professionals,Dharmapuri,4.1,4198.4,1,Television,123,Standard Plan,199,4G,BSNL
+Gopash,62,7397192333,Gopas@666,Other Professionals,Kanchipuram,2.11,2160.64,1.5,Television,63.3,Basic+ Calls,299,4G,Airtel
+Sharon Raj,61,7453000685,Sharo@118,IT sector,Namakkal,4.85,4966.4,1,Smartphone,145.5,Standard Plan,199,5G,BSNL
+Akshara,41,7896999266,Aksha@504,Unemployed,Madurai,2.49,2549.76,1.5,Tablet,74.7,Basic+ Calls,299,4G,Airtel
+Akshitha,34,6857477375,Akshi@976,Other Professionals,Virudhunagar,0.8,819.2,1.5,Tablet,24,Basic+ Calls,299,4G,Airtel
+Parle,49,7596457640,Parle@813,Unemployed,Theni,1.89,1935.36,1,Laptop,56.7,Standard Plan,199,4G,BSNL
+Govardhini,48,6698626294,Govar@580,Doctor,Coimbatore,2.42,2478.08,2,Laptop,72.6,Unlimited+ OTT,399,5G,Jio
+Devadharshini,20,8426280027,Devad@772,Student,Sivagangai,0.39,399.36,1.5,Television,11.7,Basic+ Calls,299,5G,Airtel
+Anish,18,6356185601,Anish@513,Doctor,Thoothukudi,4.51,4618.24,2.5,Smartphone,135.3,Entertainment+ Data,499,4G,VI
+Mahalakshmi,50,7959693004,Mahal@233,Teacher,Kanchipuram,0.25,256,1,Laptop,7.5,Standard Plan,199,5G,BSNL
+Nishaba,68,9240668970,Nisha@779,Student,Tiruchirappalli,4.82,4935.68,1.5,Laptop,144.6,Basic+ Calls,299,5G,Airtel
+Ajina,40,7647686615,Ajina@850,Freelancer,Kallakurichi,0.12,122.88,2,Laptop,3.6,Unlimited+ OTT,399,5G,Jio
+Alya,70,8768210458,Alyaj@625,Doctor,Ramanathapuram,0.99,1013.76,1.5,Smartphone,29.7,Basic+ Calls,299,4G,Airtel
+Rithu,35,7919715274,Rithu@187,IT sector,Thanjavur,1.15,1177.6,1.5,Television,34.5,Basic+ Calls,299,5G,Airtel
+Rithvik,65,7104640417,Rithv@681,Student,Virudhunagar,2.25,2304,1,Television,67.5,Standard Plan,199,5G,BSNL
+Raja,18,8986690489,RajaE@685,Other Professionals,Nagapattinam,2.25,2304,1,Tablet,67.5,Standard Plan,199,5G,BSNL
+Saluba,53,8349082183,Salub@742,Retiree,Thiruvallur,1.86,1904.64,1.5,Tablet,55.8,Basic+ Calls,299,4G,Airtel
+Quency,39,6664703057,Quenc@168,IT sector,Thoothukudi,0.35,358.4,1.5,Laptop,10.5,Basic+ Calls,299,5G,Airtel
+Viyan,31,9537352341,Viyan@391,Student,Pudukkottai,3.87,3962.88,1,Television,116.1,Standard Plan,199,4G,BSNL
+Wincy,29,9409607613,Wincy@136,Doctor,Thiruvarur,4.68,4792.32,1,Tablet,140.4,Standard Plan,199,5G,BSNL
+Emily,36,8701101310,Emily@358,Freelancer,Kallakurichi,2.03,2078.72,2,Tablet,60.9,Unlimited+ OTT,399,4G,Jio
+Bruno,24,6650760139,Bruno@819,Unemployed,Salem,3.79,3880.96,2,Smartphone,113.7,Unlimited+ OTT,399,4G,Jio
+Aptha,45,8378021667,Aptha@822,Student,Tiruchirappalli,0.49,501.76,2.5,Smartphone,14.7,Entertainment+ Data,499,5G,VI
+HarrishJayaraj,26,9316621825,Harri@563,Student,Thiruvallur,3.11,3184.64,2.5,Smartphone,93.3,Entertainment+ Data,499,4G,VI
+Yuvashankari,30,6140265791,Yuvas@950,Other Professionals,Kallakurichi,0.14,143.36,2,Smartphone,4.2,Unlimited+ OTT,399,4G,Jio
+Lingeshwatan,19,6388204778,Linge@461,Student,Thoothukudi,3.52,3604.48,1.5,Laptop,105.6,Basic+ Calls,299,4G,Airtel
+Ishwarya,57,7175406481,Ishwa@287,Teacher,Kallakurichi,4.11,4208.64,2,Television,123.3,Unlimited+ OTT,399,4G,Jio
+ChaitraReddy,26,6275936687,Chait@915,Teacher,Karur,4.73,4843.52,2.5,Smartphone,141.9,Entertainment+ Data,499,5G,VI
+Balasubramanium,61,9709211259,Balas@897,Freelancer,Chennai,4.74,4853.76,2,Tablet,142.2,Unlimited+ OTT,399,4G,Jio
+DeviKrishan,46,6912719833,DeviK@656,Freelancer,Tiruchirappalli,3.51,3594.24,1,Tablet,105.3,Standard Plan,199,5G,BSNL
+Mala,55,9384163452,MalaB@532,Student,Coimbatore,0.99,1013.76,1.5,Laptop,29.7,Basic+ Calls,299,5G,Airtel
+Murugesan,70,7207161812,Murug@298,IT sector,Theni,1.31,1341.44,1.5,Tablet,39.3,Basic+ Calls,299,4G,Airtel
+Kumaran,62,8712571713,Kumar@567,Other Professionals,Nagapattinam,0.48,491.52,2.5,Smartphone,14.4,Entertainment+ Data,499,5G,VI
+Rajash,52,8487242238,Rajas@678,Retiree,Namakkal,1.65,1689.6,2,Smartphone,49.5,Unlimited+ OTT,399,4G,Jio
+Michael,66,8182883189,Micha@284,Unemployed,Tirunelveli,0.81,829.44,2.5,Smartphone,24.3,Entertainment+ Data,499,5G,VI
+Palanivel,35,7523724320,Palan@843,Teacher,Coimbatore,2.16,2211.84,1.5,Tablet,64.8,Basic+ Calls,299,4G,Airtel
+Jordan Prissila,36,8550967068,Jorda@103,Student,Chennai,2.57,2631.68,1.5,Tablet,77.1,Basic+ Calls,299,4G,Airtel
+Manasi,62,6475087831,Manas@951,Retiree,Pudukkottai,1.82,1863.68,2.5,Television,54.6,Entertainment+ Data,499,5G,VI
+Mansi,63,6190097722,Mansi@899,Student,Dharmapuri,3.56,3645.44,2.5,Television,106.8,Entertainment+ Data,499,5G,VI
+Charumathi,37,7165234221,Charu@802,Doctor,Thanjavur,4.66,4771.84,1.5,Smartphone,139.8,Basic+ Calls,299,4G,Airtel
+Jaysoorya,61,9604028513,Jayso@060,Student,Thoothukudi,0.33,337.92,1,Tablet,9.9,Standard Plan,199,4G,BSNL
+DeeshaShree,69,6543001136,Deesh@368,Doctor,Erode,3.99,4085.76,2,Tablet,119.7,Unlimited+ OTT,399,4G,Jio
+Atman,37,7226253811,Atman@980,Doctor,Dharmapuri,3.25,3328,1,Tablet,97.5,Standard Plan,199,5G,BSNL
+Dropathi,37,7945963773,Dropa@639,Unemployed,Ariyalur,0.89,911.36,2.5,Television,26.7,Entertainment+ Data,499,5G,VI
+Shankar,61,9644589433,Shank@982,Other Professionals,Tiruvannamalai,2.55,2611.2,2.5,Television,76.5,Entertainment+ Data,499,4G,VI
+Prissila Toni,59,8900252106,Priss@365,Retiree,Tiruvannamalai,3.61,3696.64,2.5,Tablet,108.3,Entertainment+ Data,499,5G,VI
+Morgan Jordan,24,6213420701,Morga@448,IT sector,Nagapattinam,0.8,819.2,1.5,Television,24,Basic+ Calls,299,5G,Airtel
+Casey Toni,46,6245218583,Casey@472,Doctor,Tiruppur,4.64,4751.36,2.5,Laptop,139.2,Entertainment+ Data,499,5G,VI
+Jebasto Morgan,54,9831777920,Jebas@726,Teacher,Pudukkottai,3.94,4034.56,1,Smartphone,118.2,Standard Plan,199,5G,BSNL
+Casey Rex,20,6202269154,Casey@754,Freelancer,Theni,2.55,2611.2,1,Tablet,76.5,Standard Plan,199,4G,BSNL
+Alex Prissila,34,6965486561,Alex @998,Doctor,Karur,0.21,215.04,2,Laptop,6.3,Unlimited+ OTT,399,4G,Jio
+Alex Jordan,58,9662448387,Alex @096,Student,Tiruvannamalai,1.95,1996.8,2.5,Smartphone,58.5,Entertainment+ Data,499,5G,VI
+Jebasto Casey,31,7113321526,Jebas@585,Retiree,Madurai,4.2,4300.8,2,Tablet,126,Unlimited+ OTT,399,4G,Jio
+Sherif Rex,49,6255319380,Sheri@388,Other Professionals,Madurai,0.65,665.6,2,Tablet,19.5,Unlimited+ OTT,399,5G,Jio
+Jebasto Casey,59,6653932856,Jebas@148,Unemployed,Tiruchirappalli,4.29,4392.96,2,Television,128.7,Unlimited+ OTT,399,4G,Jio
+Toni Rex,70,7138310769,Toni @344,Student,Thiruvarur,2.31,2365.44,2,Smartphone,69.3,Unlimited+ OTT,399,4G,Jio
+Sherif Jordan,66,9966703522,Sheri@309,Other Professionals,Thiruvallur,4.15,4249.6,2,Laptop,124.5,Unlimited+ OTT,399,4G,Jio
+Casey Casey,44,9438755134,Casey@510,Freelancer,Salem,2.96,3031.04,1.5,Tablet,88.8,Basic+ Calls,299,4G,Airtel
+Prissila Toni,20,9179826960,Priss@318,Freelancer,Nilgiris,4.1,4198.4,1.5,Laptop,123,Basic+ Calls,299,4G,Airtel
+Alex Casey,40,8422472300,Alex @674,Freelancer,Thiruvarur,2.95,3020.8,1.5,Laptop,88.5,Basic+ Calls,299,5G,Airtel
+Sherif Sherif,34,7834625306,Sheri@050,Freelancer,Sivagangai,3.55,3635.2,2,Tablet,106.5,Unlimited+ OTT,399,4G,Jio
+Toni Morgan,69,6223920386,Toni @143,Retiree,Nagapattinam,4.15,4249.6,1,Tablet,124.5,Standard Plan,199,4G,BSNL
+Rex Rex,52,8310174936,Rex R@136,Teacher,Cuddalore,4.93,5048.32,1,Smartphone,147.9,Standard Plan,199,5G,BSNL
+Jebasto Sherif,54,7249002581,Jebas@742,Doctor,Erode,4.12,4218.88,2.5,Tablet,123.6,Entertainment+ Data,499,5G,VI
+Jebasto Morgan,60,7868106576,Jebas@195,IT sector,Villupuram,2.26,2314.24,1.5,Smartphone,67.8,Basic+ Calls,299,4G,Airtel
+Jebasto Sherif,68,6563437332,Jebas@700,Retiree,Vellore,4.61,4720.64,1.5,Television,138.3,Basic+ Calls,299,5G,Airtel
+Alex Alex,53,6748536069,Alex @293,IT sector,Nilgiris,4.27,4372.48,2,Tablet,128.1,Unlimited+ OTT,399,4G,Jio
+Jebasto Casey,51,9263271536,Jebas@461,Doctor,Perambalur,0.99,1013.76,2.5,Laptop,29.7,Entertainment+ Data,499,5G,VI
+Toni Toni,36,8445023840,Toni @657,Retiree,Tiruchirappalli,3.02,3092.48,1,Laptop,90.6,Standard Plan,199,5G,BSNL
+Rex Alex,70,8764937452,Rex A@324,Retiree,Madurai,3.2,3276.8,1.5,Tablet,96,Basic+ Calls,299,4G,Airtel
+Jordan Rex,33,6865342694,Jorda@271,Retiree,Dindigul,2.46,2519.04,1,Smartphone,73.8,Standard Plan,199,5G,BSNL
+Prissila Casey,30,8699823070,Priss@016,Retiree,Theni,2.75,2816,1.5,Smartphone,82.5,Basic+ Calls,299,5G,Airtel
+Rex Alex,56,6555276732,Rex A@961,Freelancer,Salem,4.94,5058.56,1.5,Television,148.2,Basic+ Calls,299,4G,Airtel
+Sherif Toni,23,9777370524,Sheri@501,Teacher,Kallakurichi,2.6,2662.4,1,Smartphone,78,Standard Plan,199,5G,BSNL
+Alex Prissila,65,8533233489,Alex @748,Doctor,Salem,0.49,501.76,1.5,Tablet,14.7,Basic+ Calls,299,4G,Airtel
+Prissila Sherif,29,6984658469,Priss@795,Doctor,Tiruvannamalai,1.55,1587.2,2.5,Laptop,46.5,Entertainment+ Data,499,4G,VI
+Rex Jebasto,53,7590025746,Rex J@821,Freelancer,Karur,4.6,4710.4,1.5,Smartphone,138,Basic+ Calls,299,4G,Airtel
+Alex Morgan,46,9965970415,Alex @015,Freelancer,Tirunelveli,2.65,2713.6,2.5,Laptop,79.5,Entertainment+ Data,499,4G,VI
+Prissila Alex,39,6304877970,Priss@920,Other Professionals,Nilgiris,2.67,2734.08,2.5,Smartphone,80.1,Entertainment+ Data,499,4G,VI
+Sherif Rex,67,6914914639,Sheri@847,Teacher,Tiruppur,2.3,2355.2,2.5,Smartphone,69,Entertainment+ Data,499,4G,VI
+Rex Morgan,53,9527941053,Rex M@675,Freelancer,Tiruppur,2.65,2713.6,2.5,Television,79.5,Entertainment+ Data,499,5G,VI
+Morgan Toni,48,7852834267,Morga@417,Retiree,Vellore,4.36,4464.64,2,Tablet,130.8,Unlimited+ OTT,399,4G,Jio
+Toni Prissila,24,7886662819,Toni @924,Unemployed,Dharmapuri,2.31,2365.44,2,Television,69.3,Unlimited+ OTT,399,4G,Jio
+Jordan Jordan,19,6776782770,Jorda@057,Teacher,Nagapattinam,0.27,276.48,1.5,Smartphone,8.1,Basic+ Calls,299,4G,Airtel
+Jebasto Jebasto,70,7526971957,Jebas@055,Teacher,Coimbatore,3.17,3246.08,2,Tablet,95.1,Unlimited+ OTT,399,4G,Jio
+Jordan Prissila,21,9872789405,Jorda@534,Teacher,Theni,1.13,1157.12,1,Television,33.9,Standard Plan,199,4G,BSNL
+Rex Toni,65,7275131668,Rex T@826,Teacher,Vellore,3.71,3799.04,2.5,Tablet,111.3,Entertainment+ Data,499,4G,VI
+Jordan Morgan,49,6807195750,Jorda@147,IT sector,Madurai,1.72,1761.28,2,Tablet,51.6,Unlimited+ OTT,399,4G,Jio
+Rex Casey,36,8728612186,Rex C@543,Student,Vellore,4.45,4556.8,1,Laptop,133.5,Standard Plan,199,5G,BSNL
+Rex Casey,19,8952377288,Rex C@470,Teacher,Sivagangai,3.94,4034.56,1,Smartphone,118.2,Standard Plan,199,4G,BSNL
+Rex Casey,18,9461222537,Rex C@024,Student,Thanjavur,1.44,1474.56,1,Television,43.2,Standard Plan,199,4G,BSNL
+Morgan Casey,63,7795338250,Morga@092,IT sector,Tirunelveli,4.62,4730.88,2,Smartphone,138.6,Unlimited+ OTT,399,5G,Jio
+Toni Morgan,34,8743545745,Toni @403,Other Professionals,Cuddalore,1.01,1034.24,2,Television,30.3,Unlimited+ OTT,399,5G,Jio
+Jebasto Sherif,36,6257414139,Jebas@146,Teacher,Dharmapuri,0.95,972.8,1.5,Smartphone,28.5,Basic+ Calls,299,5G,Airtel
+Morgan Jordan,25,9457799697,Morga@478,IT sector,Kallakurichi,2.21,2263.04,1,Television,66.3,Standard Plan,199,5G,BSNL
+Jordan Rex,19,8409773792,Jorda@990,Teacher,Villupuram,1.71,1751.04,1,Tablet,51.3,Standard Plan,199,5G,BSNL
+Toni Morgan,34,7869942756,Toni @046,Freelancer,Krishnagiri,1.07,1095.68,1,Laptop,32.1,Standard Plan,199,4G,BSNL
+Prissila Morgan,66,8145541241,Priss@082,Other Professionals,Krishnagiri,1.56,1597.44,2.5,Tablet,46.8,Entertainment+ Data,499,4G,VI
+Casey Jordan,30,6297857541,Casey@784,Freelancer,Thiruvarur,2.63,2693.12,2,Smartphone,78.9,Unlimited+ OTT,399,5G,Jio
+Morgan Casey,19,8717429509,Morga@905,Freelancer,Tirunelveli,2.84,2908.16,1.5,Laptop,85.2,Basic+ Calls,299,4G,Airtel
+Rex Alex,28,7199307894,Rex A@972,Freelancer,Dindigul,1.81,1853.44,1.5,Tablet,54.3,Basic+ Calls,299,5G,Airtel
+Toni Rex,58,8202028223,Toni @650,IT sector,Coimbatore,3.31,3389.44,2.5,Smartphone,99.3,Entertainment+ Data,499,5G,VI
+Jordan Sherif,21,8407521818,Jorda@656,Teacher,Ramanathapuram,2.64,2703.36,2.5,Television,79.2,Entertainment+ Data,499,4G,VI
+Toni Jebasto,66,8861974014,Toni @214,Teacher,Nilgiris,2.77,2836.48,2,Tablet,83.1,Unlimited+ OTT,399,4G,Jio
+Toni Morgan,31,7374439227,Toni @030,IT sector,Cuddalore,0.52,532.48,2.5,Smartphone,15.6,Entertainment+ Data,499,4G,VI
+Alex Jordan,49,9476699121,Alex @429,Other Professionals,Thanjavur,4.73,4843.52,2.5,Tablet,141.9,Entertainment+ Data,499,5G,VI
+Rex Prissila,65,8896054671,Rex P@952,Doctor,Tiruchirappalli,1.91,1955.84,2,Tablet,57.3,Unlimited+ OTT,399,5G,Jio
+Morgan Morgan,58,8643476951,Morga@711,Doctor,Sivagangai,1.15,1177.6,2,Laptop,34.5,Unlimited+ OTT,399,5G,Jio
+Rex Morgan,34,7815384864,Rex M@986,Unemployed,Nagapattinam,4.42,4526.08,1,Tablet,132.6,Standard Plan,199,5G,BSNL
+Morgan Jebasto,38,9633234509,Morga@221,Teacher,Thanjavur,1.01,1034.24,2.5,Television,30.3,Entertainment+ Data,499,5G,VI
+Rex Toni,23,9657514067,Rex T@525,Freelancer,Thiruvarur,1.69,1730.56,2.5,Tablet,50.7,Entertainment+ Data,499,5G,VI
+Toni Casey,37,9754450229,Toni @016,Unemployed,Thanjavur,0.26,266.24,2,Laptop,7.8,Unlimited+ OTT,399,4G,Jio
+Jebasto Rex,24,9252046023,Jebas@176,Teacher,Dindigul,0.66,675.84,2,Smartphone,19.8,Unlimited+ OTT,399,5G,Jio
+Toni Morgan,53,7655188532,Toni @886,Unemployed,Tiruppur,3.13,3205.12,1,Smartphone,93.9,Standard Plan,199,5G,BSNL
+Toni Toni,22,7762792522,Toni @082,Unemployed,Madurai,0.94,962.56,1.5,Laptop,28.2,Basic+ Calls,299,5G,Airtel
+Sherif Prissila,46,6336933121,Sheri@754,Retiree,Perambalur,2.25,2304,2,Laptop,67.5,Unlimited+ OTT,399,5G,Jio
+Toni Rex,37,9360181330,Toni @560,Teacher,Erode,0.65,665.6,2,Smartphone,19.5,Unlimited+ OTT,399,4G,Jio
+Prissila Sherif,38,9678825138,Priss@596,Other Professionals,Karur,3.2,3276.8,2,Tablet,96,Unlimited+ OTT,399,4G,Jio
+Prissila Sherif,28,7811352414,Priss@730,Doctor,Thiruvallur,2.45,2508.8,1,Television,73.5,Standard Plan,199,4G,BSNL
+Jordan Jebasto,26,7707151192,Jorda@059,Student,Thoothukudi,1.48,1515.52,2,Television,44.4,Unlimited+ OTT,399,4G,Jio
+Casey Morgan,46,9169620743,Casey@833,Retiree,Coimbatore,3.33,3409.92,2.5,Laptop,99.9,Entertainment+ Data,499,4G,VI
+Alex Jordan,64,9795879954,Alex @102,Student,Villupuram,4.57,4679.68,1.5,Tablet,137.1,Basic+ Calls,299,4G,Airtel
+Sherif Jordan,43,8688114075,Sheri@586,Teacher,Virudhunagar,4.5,4608,1,Smartphone,135,Standard Plan,199,5G,BSNL
+Casey Rex,69,9489593097,Casey@222,Teacher,Karur,1.82,1863.68,2.5,Smartphone,54.6,Entertainment+ Data,499,5G,VI
+Jordan Sherif,51,8833310566,Jorda@226,Teacher,Sivagangai,0.17,174.08,1.5,Laptop,5.1,Basic+ Calls,299,4G,Airtel
+Morgan Morgan,35,9599140599,Morga@949,Unemployed,Ariyalur,1.31,1341.44,1.5,Tablet,39.3,Basic+ Calls,299,4G,Airtel
+Sherif Rex,22,7755257947,Sheri@938,Unemployed,Tiruvannamalai,4.47,4577.28,2.5,Tablet,134.1,Entertainment+ Data,499,5G,VI
+Prissila Morgan,35,9790522415,Priss@968,Other Professionals,Madurai,1.6,1638.4,1,Smartphone,48,Standard Plan,199,4G,BSNL
+Jordan Casey,70,9448548802,Jorda@191,Retiree,Ramanathapuram,0.61,624.64,1,Television,18.3,Standard Plan,199,4G,BSNL
+Morgan Toni,56,8258119782,Morga@423,Freelancer,Karur,1.17,1198.08,2.5,Television,35.1,Entertainment+ Data,499,4G,VI
+Alex Casey,42,6453327087,Alex @896,Unemployed,Erode,3.47,3553.28,2,Tablet,104.1,Unlimited+ OTT,399,5G,Jio
+Jebasto Jordan,26,8263959866,Jebas@431,Unemployed,Ramanathapuram,3.82,3911.68,1,Television,114.6,Standard Plan,199,4G,BSNL
+Rex Morgan,54,7910100354,Rex M@172,Unemployed,Theni,1.26,1290.24,1.5,Smartphone,37.8,Basic+ Calls,299,4G,Airtel
+Jordan Jebasto,62,8985922736,Jorda@707,Freelancer,Thanjavur,1.36,1392.64,1.5,Tablet,40.8,Basic+ Calls,299,4G,Airtel
+Toni Toni,25,6784685427,Toni @840,Freelancer,Namakkal,1.89,1935.36,1,Smartphone,56.7,Standard Plan,199,5G,BSNL
+Casey Casey,30,6565341584,Casey@350,Doctor,Ramanathapuram,4.52,4628.48,2.5,Laptop,135.6,Entertainment+ Data,499,5G,VI
+Jordan Toni,35,9483351411,Jorda@805,Other Professionals,Vellore,2.8,2867.2,2.5,Smartphone,84,Entertainment+ Data,499,5G,VI
+Casey Jordan,61,7732629386,Casey@549,Student,Coimbatore,2.68,2744.32,1.5,Television,80.4,Basic+ Calls,299,5G,Airtel
+Jordan Sherif,44,7432430200,Jorda@619,Retiree,Chennai,4.75,4864,1,Laptop,142.5,Standard Plan,199,4G,BSNL
+Alex Toni,65,9114248624,Alex @680,Teacher,Madurai,4.15,4249.6,2,Tablet,124.5,Unlimited+ OTT,399,4G,Jio
+Jordan Jebasto,43,8795290598,Jorda@981,IT sector,Theni,3.04,3112.96,2.5,Smartphone,91.2,Entertainment+ Data,499,5G,VI
+Rex Toni,38,8500491838,Rex T@743,Unemployed,Thiruvarur,1.97,2017.28,1.5,Smartphone,59.1,Basic+ Calls,299,5G,Airtel
+Sherif Alex,67,7342043090,Sheri@047,Retiree,Thoothukudi,4.12,4218.88,1,Laptop,123.6,Standard Plan,199,4G,BSNL
+Casey Rex,46,7731794360,Casey@963,Doctor,Karur,4.99,5109.76,2.5,Tablet,149.7,Entertainment+ Data,499,5G,VI
+Casey Jebasto,55,6382766353,Casey@747,Other Professionals,Tiruppur,2.27,2324.48,1,Smartphone,68.1,Standard Plan,199,4G,BSNL
+Casey Casey,21,9646407888,Casey@418,IT sector,Tiruchirappalli,1.69,1730.56,2,Smartphone,50.7,Unlimited+ OTT,399,4G,Jio
+Prissila Jordan,27,6312166735,Priss@636,IT sector,Cuddalore,4.62,4730.88,1.5,Tablet,138.6,Basic+ Calls,299,5G,Airtel
+Jebasto Prissila,47,7518316569,Jebas@973,Student,Villupuram,2.91,2979.84,1.5,Television,87.3,Basic+ Calls,299,5G,Airtel
+Casey Casey,68,9555156967,Casey@152,IT sector,Ramanathapuram,2.9,2969.6,1.5,Tablet,87,Basic+ Calls,299,4G,Airtel
+Prissila Sherif,19,9576172044,Priss@008,Retiree,Pudukkottai,4.25,4352,2.5,Smartphone,127.5,Entertainment+ Data,499,5G,VI
+Casey Morgan,46,6544538025,Casey@493,Freelancer,Thanjavur,2.05,2099.2,2,Tablet,61.5,Unlimited+ OTT,399,5G,Jio
+Morgan Jordan,50,9173469299,Morga@978,Doctor,Erode,4.28,4382.72,2.5,Laptop,128.4,Entertainment+ Data,499,4G,VI
+Sherif Sherif,33,7477464162,Sheri@423,Other Professionals,Theni,0.97,993.28,1,Laptop,29.1,Standard Plan,199,5G,BSNL
+Alex Morgan,52,6758547744,Alex @867,Other Professionals,Salem,4.22,4321.28,2.5,Tablet,126.6,Entertainment+ Data,499,4G,VI
+Morgan Prissila,25,9213116591,Morga@554,Teacher,Thiruvallur,3,3072,2.5,Television,90,Entertainment+ Data,499,4G,VI
+Morgan Jordan,42,8416661149,Morga@527,Unemployed,Ramanathapuram,3.73,3819.52,2,Laptop,111.9,Unlimited+ OTT,399,5G,Jio
+Sherif Prissila,63,8939473419,Sheri@229,Teacher,Pudukkottai,4.83,4945.92,2,Laptop,144.9,Unlimited+ OTT,399,5G,Jio
+Alex Prissila,43,8294819627,Alex @026,IT sector,Theni,0.18,184.32,2,Television,5.4,Unlimited+ OTT,399,5G,Jio
+Alex Toni,47,6511207672,Alex @819,Freelancer,Thanjavur,3.3,3379.2,1,Laptop,99,Standard Plan,199,4G,BSNL
+Jordan Rex,23,7229784137,Jorda@084,Other Professionals,Chennai,0.16,163.84,2.5,Laptop,4.8,Entertainment+ Data,499,4G,VI
+Jordan Prissila,50,7210020238,Jorda@643,Doctor,Nagapattinam,2.95,3020.8,1.5,Television,88.5,Basic+ Calls,299,5G,Airtel
+Alex Rex,23,7834202286,Alex @435,IT sector,Sivagangai,0.81,829.44,2,Smartphone,24.3,Unlimited+ OTT,399,4G,Jio
+Rex Jebasto,22,7831968857,Rex J@644,Other Professionals,Thiruvarur,3.7,3788.8,1,Laptop,111,Standard Plan,199,5G,BSNL
+Prissila Rex,22,8856331862,Priss@356,Other Professionals,Pudukkottai,2.31,2365.44,2.5,Tablet,69.3,Entertainment+ Data,499,4G,VI
+Morgan Morgan,33,9788310113,Morga@150,Other Professionals,Namakkal,1.5,1536,2.5,Television,45,Entertainment+ Data,499,5G,VI
+Casey Prissila,50,7556436539,Casey@546,IT sector,Ariyalur,4.93,5048.32,1.5,Smartphone,147.9,Basic+ Calls,299,4G,Airtel
+Prissila Casey,55,9946316254,Priss@817,Doctor,Krishnagiri,2.22,2273.28,1.5,Laptop,66.6,Basic+ Calls,299,4G,Airtel
+Prissila Morgan,27,9195776024,Priss@089,Freelancer,Nagapattinam,0.94,962.56,1,Laptop,28.2,Standard Plan,199,4G,BSNL
+Alex Jebasto,66,7644194560,Alex @709,Retiree,Coimbatore,0.43,440.32,1,Smartphone,12.9,Standard Plan,199,5G,BSNL
+Prissila Prissila,27,7283751713,Priss@858,IT sector,Thiruvarur,4.25,4352,2.5,Smartphone,127.5,Entertainment+ Data,499,4G,VI
+Casey Toni,42,7625157407,Casey@642,Doctor,Erode,2.38,2437.12,2,Smartphone,71.4,Unlimited+ OTT,399,4G,Jio
+Toni Jordan,48,7306607872,Toni @270,Doctor,Thoothukudi,3.11,3184.64,2.5,Tablet,93.3,Entertainment+ Data,499,4G,VI
+Casey Jordan,28,9265981780,Casey@988,Teacher,Chennai,3.84,3932.16,1.5,Television,115.2,Basic+ Calls,299,4G,Airtel
+Rex Rex,57,9505403797,Rex R@539,Teacher,Dindigul,2.57,2631.68,1,Tablet,77.1,Standard Plan,199,4G,BSNL
+Casey Toni,65,8317824929,Casey@389,Unemployed,Dindigul,2.28,2334.72,2,Television,68.4,Unlimited+ OTT,399,4G,Jio
+Jordan Casey,52,7391235895,Jorda@701,Unemployed,Tiruchirappalli,1.87,1914.88,1,Tablet,56.1,Standard Plan,199,4G,BSNL
+Sherif Sherif,51,8372607361,Sheri@355,IT sector,Cuddalore,1.88,1925.12,2.5,Laptop,56.4,Entertainment+ Data,499,4G,VI
+Sherif Casey,65,8520335655,Sheri@340,Unemployed,Nilgiris,1.01,1034.24,2.5,Smartphone,30.3,Entertainment+ Data,499,5G,VI
+Sherif Alex,38,6404971339,Sheri@833,Doctor,Namakkal,3.83,3921.92,2.5,Laptop,114.9,Entertainment+ Data,499,4G,VI
+Casey Prissila,25,7660651454,Casey@084,Unemployed,Dharmapuri,3.2,3276.8,2.5,Television,96,Entertainment+ Data,499,5G,VI
+Jebasto Rex,68,6470167183,Jebas@943,Retiree,Coimbatore,2.52,2580.48,2,Smartphone,75.6,Unlimited+ OTT,399,4G,Jio
+Prissila Toni,53,7824047021,Priss@279,Teacher,Pudukkottai,4.81,4925.44,2,Laptop,144.3,Unlimited+ OTT,399,5G,Jio
+Casey Rex,36,7843621879,Casey@442,Student,Chennai,3.23,3307.52,2.5,Tablet,96.9,Entertainment+ Data,499,4G,VI
+Jordan Toni,42,9564338929,Jorda@804,Student,Kanchipuram,4.77,4884.48,1.5,Laptop,143.1,Basic+ Calls,299,5G,Airtel
+Rex Jebasto,26,7883221084,Rex J@798,Doctor,Coimbatore,1.81,1853.44,2.5,Tablet,54.3,Entertainment+ Data,499,4G,VI
+Alex Casey,47,6674026249,Alex @519,Unemployed,Sivagangai,4.97,5089.28,1.5,Smartphone,149.1,Basic+ Calls,299,4G,Airtel
+Casey Sherif,37,6415349425,Casey@316,Teacher,Vellore,4.16,4259.84,1.5,Tablet,124.8,Basic+ Calls,299,5G,Airtel
+Sherif Toni,19,8788123260,Sheri@145,Student,Sivagangai,4.83,4945.92,1,Smartphone,144.9,Standard Plan,199,5G,BSNL
+Alex Morgan,63,9544956916,Alex @324,Retiree,Karur,0.65,665.6,2.5,Tablet,19.5,Entertainment+ Data,499,4G,VI
+Toni Sherif,44,8745411752,Toni @299,Teacher,Virudhunagar,0.84,860.16,2,Laptop,25.2,Unlimited+ OTT,399,5G,Jio
+Sherif Jordan,39,6729479005,Sheri@573,Unemployed,Ramanathapuram,4.57,4679.68,1,Tablet,137.1,Standard Plan,199,4G,BSNL
+Jebasto Jordan,35,9274237252,Jebas@643,Other Professionals,Cuddalore,4.45,4556.8,2,Smartphone,133.5,Unlimited+ OTT,399,5G,Jio
+Morgan Alex,46,8621600910,Morga@073,Retiree,Pudukkottai,4.68,4792.32,1.5,Television,140.4,Basic+ Calls,299,5G,Airtel
+Sherif Jebasto,59,8565890099,Sheri@480,Student,Madurai,1.7,1740.8,1,Smartphone,51,Standard Plan,199,4G,BSNL
+Rex Prissila,59,9297437235,Rex P@623,Doctor,Thanjavur,0.95,972.8,2.5,Tablet,28.5,Entertainment+ Data,499,4G,VI
+Rex Sherif,63,7566240724,Rex S@525,Doctor,Thoothukudi,0.64,655.36,2.5,Smartphone,19.2,Entertainment+ Data,499,4G,VI
+Rex Alex,46,9825931431,Rex A@798,Doctor,Nilgiris,3.97,4065.28,1.5,Tablet,119.1,Basic+ Calls,299,5G,Airtel
+Jordan Casey,25,7957843302,Jorda@279,Doctor,Erode,3.19,3266.56,2,Tablet,95.7,Unlimited+ OTT,399,5G,Jio
+Toni Morgan,61,9276889346,Toni @997,Freelancer,Krishnagiri,4.84,4956.16,2,Tablet,145.2,Unlimited+ OTT,399,5G,Jio
+Prissila Prissila,33,8631197065,Priss@412,Other Professionals,Chennai,3,3072,2,Tablet,90,Unlimited+ OTT,399,5G,Jio
+Casey Sherif,40,7229038410,Casey@533,Doctor,Dindigul,4.7,4812.8,1,Smartphone,141,Standard Plan,199,4G,BSNL
+Jordan Jebasto,31,8787246350,Jorda@457,Student,Virudhunagar,2.48,2539.52,1,Tablet,74.4,Standard Plan,199,4G,BSNL
+Alex Sherif,37,7767607250,Alex @517,Other Professionals,Tirunelveli,2.86,2928.64,1.5,Laptop,85.8,Basic+ Calls,299,4G,Airtel
+Sherif Toni,45,8311522770,Sheri@713,Freelancer,Chennai,2.49,2549.76,1.5,Smartphone,74.7,Basic+ Calls,299,5G,Airtel
+Jordan Alex,47,6404850721,Jorda@607,IT sector,Namakkal,1.36,1392.64,1.5,Television,40.8,Basic+ Calls,299,5G,Airtel
+Toni Prissila,53,7533061148,Toni @163,IT sector,Theni,2.14,2191.36,1.5,Tablet,64.2,Basic+ Calls,299,4G,Airtel
+Sherif Toni,19,8341590507,Sheri@429,Student,Nagapattinam,4.41,4515.84,1,Television,132.3,Standard Plan,199,4G,BSNL
+Alex Casey,36,8793310441,Alex @371,Other Professionals,Ramanathapuram,0.34,348.16,1.5,Television,10.2,Basic+ Calls,299,4G,Airtel
+Morgan Jordan,58,6946255832,Morga@505,Teacher,Dharmapuri,1.01,1034.24,2,Smartphone,30.3,Unlimited+ OTT,399,4G,Jio
+Jebasto Sherif,52,8954003094,Jebas@884,Teacher,Thoothukudi,3.34,3420.16,2,Smartphone,100.2,Unlimited+ OTT,399,5G,Jio
+Morgan Morgan,19,8591916889,Morga@362,Doctor,Tiruvannamalai,4.33,4433.92,2.5,Laptop,129.9,Entertainment+ Data,499,4G,VI
+Casey Jordan,19,7111207977,Casey@631,Unemployed,Thoothukudi,0.63,645.12,1.5,Tablet,18.9,Basic+ Calls,299,5G,Airtel
+Rex Prissila,26,8669982210,Rex P@630,Doctor,Thoothukudi,1.05,1075.2,2,Tablet,31.5,Unlimited+ OTT,399,4G,Jio
+Alex Sherif,68,6172513230,Alex @603,Retiree,Pudukkottai,4.69,4802.56,2,Laptop,140.7,Unlimited+ OTT,399,4G,Jio
+Sherif Rex,64,9537418674,Sheri@426,IT sector,Karur,3.22,3297.28,2,Television,96.6,Unlimited+ OTT,399,5G,Jio
+Toni Prissila,59,7541095341,Toni @049,Other Professionals,Ariyalur,1.47,1505.28,2,Television,44.1,Unlimited+ OTT,399,4G,Jio
+Prissila Sherif,42,9223035970,Priss@526,Teacher,Dindigul,4.9,5017.6,2,Tablet,147,Unlimited+ OTT,399,4G,Jio
+Jebasto Sherif,68,8480386471,Jebas@753,Retiree,Karur,0.5,512,2,Tablet,15,Unlimited+ OTT,399,4G,Jio
+Alex Jebasto,18,6608820958,Alex @542,Unemployed,Karur,1.21,1239.04,2.5,Laptop,36.3,Entertainment+ Data,499,4G,VI
+Prissila Jordan,56,9127800329,Priss@214,Retiree,Thiruvallur,1.12,1146.88,2.5,Tablet,33.6,Entertainment+ Data,499,5G,VI
+Jordan Jordan,48,6293744188,Jorda@117,Teacher,Villupuram,0.34,348.16,2,Television,10.2,Unlimited+ OTT,399,5G,Jio
+Jebasto Alex,26,9540418626,Jebas@127,Doctor,Vellore,4.25,4352,1,Television,127.5,Standard Plan,199,4G,BSNL
+Alex Jordan,24,9264807014,Alex @217,Unemployed,Dharmapuri,3.88,3973.12,1,Tablet,116.4,Standard Plan,199,5G,BSNL
+Toni Jebasto,28,6840396250,Toni @605,IT sector,Ramanathapuram,3.07,3143.68,2.5,Tablet,92.1,Entertainment+ Data,499,4G,VI
+Rex Jordan,69,6135756976,Rex J@815,Other Professionals,Krishnagiri,4.08,4177.92,1,Television,122.4,Standard Plan,199,5G,BSNL
+Jordan Jordan,26,8336230911,Jorda@273,Retiree,Theni,1.11,1136.64,1.5,Laptop,33.3,Basic+ Calls,299,5G,Airtel
+Jordan Alex,43,8880698409,Jorda@351,Unemployed,Salem,2.55,2611.2,2,Laptop,76.5,Unlimited+ OTT,399,4G,Jio
+Alex Jebasto,23,8534685770,Alex @321,Doctor,Salem,0.72,737.28,2.5,Tablet,21.6,Entertainment+ Data,499,5G,VI
+Alex Jebasto,19,7288663142,Alex @036,IT sector,Perambalur,1.35,1382.4,2.5,Television,40.5,Entertainment+ Data,499,4G,VI
+Morgan Prissila,65,7679173379,Morga@276,Unemployed,Salem,3.31,3389.44,1,Tablet,99.3,Standard Plan,199,4G,BSNL
+Prissila Morgan,49,7506525935,Priss@180,Retiree,Namakkal,3.59,3676.16,1,Laptop,107.7,Standard Plan,199,4G,BSNL
+Sherif Jordan,50,9648260185,Sheri@619,Teacher,Cuddalore,4.11,4208.64,1,Television,123.3,Standard Plan,199,4G,BSNL
+Sherif Prissila,53,6192043378,Sheri@244,Doctor,Tirunelveli,0.57,583.68,2.5,Tablet,17.1,Entertainment+ Data,499,4G,VI
+Jordan Sherif,30,8210287044,Jorda@512,Teacher,Karur,2.89,2959.36,1.5,Laptop,86.7,Basic+ Calls,299,4G,Airtel
+Toni Jebasto,50,6287646480,Toni @354,Doctor,Virudhunagar,2.06,2109.44,2,Television,61.8,Unlimited+ OTT,399,5G,Jio
+Jordan Casey,57,9370290525,Jorda@291,Other Professionals,Madurai,3.51,3594.24,2,Laptop,105.3,Unlimited+ OTT,399,5G,Jio
+Rex Casey,33,6699224401,Rex C@873,Doctor,Virudhunagar,2.81,2877.44,1.5,Tablet,84.3,Basic+ Calls,299,5G,Airtel
+Prissila Morgan,50,6181523453,Priss@765,Unemployed,Ariyalur,4.31,4413.44,1,Laptop,129.3,Standard Plan,199,5G,BSNL
+Casey Alex,25,9329007943,Casey@632,Teacher,Kanchipuram,4.93,5048.32,2.5,Tablet,147.9,Entertainment+ Data,499,4G,VI
+Alex Jordan,25,6276183574,Alex @444,Other Professionals,Thiruvarur,4.64,4751.36,2,Laptop,139.2,Unlimited+ OTT,399,4G,Jio
+Sherif Jebasto,54,9876347596,Sheri@192,Unemployed,Theni,0.62,634.88,1,Laptop,18.6,Standard Plan,199,4G,BSNL
+Sherif Sherif,45,7768780236,Sheri@503,Student,Kanchipuram,3.01,3082.24,2,Television,90.3,Unlimited+ OTT,399,4G,Jio
+Casey Prissila,43,9650258934,Casey@189,Unemployed,Cuddalore,0.67,686.08,2.5,Television,20.1,Entertainment+ Data,499,4G,VI
+Toni Jordan,24,9414051815,Toni @592,Doctor,Madurai,0.47,481.28,1.5,Laptop,14.1,Basic+ Calls,299,5G,Airtel
+Jordan Alex,51,8761506956,Jorda@192,Other Professionals,Ariyalur,4.4,4505.6,2.5,Laptop,132,Entertainment+ Data,499,4G,VI
+Rex Jebasto,55,7504764394,Rex J@877,Unemployed,Thiruvarur,2.12,2170.88,2.5,Television,63.6,Entertainment+ Data,499,4G,VI
+Sherif Prissila,53,9547926329,Sheri@457,Unemployed,Thiruvallur,0.63,645.12,1.5,Television,18.9,Basic+ Calls,299,5G,Airtel
+Jebasto Morgan,61,9489399173,Jebas@723,Student,Thoothukudi,2.84,2908.16,2.5,Smartphone,85.2,Entertainment+ Data,499,4G,VI
+Alex Casey,59,7535048170,Alex @152,Freelancer,Madurai,3.86,3952.64,2,Laptop,115.8,Unlimited+ OTT,399,4G,Jio
+Jebasto Rex,47,9300088834,Jebas@266,Doctor,Tirunelveli,0.61,624.64,1.5,Laptop,18.3,Basic+ Calls,299,5G,Airtel
+Alex Sherif,39,7399344042,Alex @419,Doctor,Tiruchirappalli,1.39,1423.36,2,Smartphone,41.7,Unlimited+ OTT,399,4G,Jio
+Morgan Toni,41,7757420971,Morga@597,Student,Kallakurichi,3.61,3696.64,1,Laptop,108.3,Standard Plan,199,5G,BSNL
+Toni Morgan,25,8241054489,Toni @627,Other Professionals,Coimbatore,4.37,4474.88,2,Tablet,131.1,Unlimited+ OTT,399,5G,Jio
+Morgan Jordan,48,9700896166,Morga@999,Freelancer,Tiruchirappalli,4.08,4177.92,2.5,Laptop,122.4,Entertainment+ Data,499,4G,VI
+Morgan Prissila,59,6909043937,Morga@280,Doctor,Erode,4.67,4782.08,2,Tablet,140.1,Unlimited+ OTT,399,4G,Jio
+Alex Jebasto,24,6560770779,Alex @024,Doctor,Madurai,4.45,4556.8,2.5,Laptop,133.5,Entertainment+ Data,499,4G,VI
+Alex Alex,42,6262213991,Alex @849,Retiree,Kanchipuram,0.15,153.6,2,Laptop,4.5,Unlimited+ OTT,399,4G,Jio
+Rex Toni,40,9732133327,Rex T@289,Student,Dindigul,0.42,430.08,2.5,Laptop,12.6,Entertainment+ Data,499,5G,VI
+Morgan Toni,46,8521118941,Morga@396,Unemployed,Madurai,0.92,942.08,2,Tablet,27.6,Unlimited+ OTT,399,5G,Jio
+Jebasto Prissila,40,8598427299,Jebas@096,Retiree,Tiruchirappalli,4.38,4485.12,1.5,Laptop,131.4,Basic+ Calls,299,5G,Airtel
+Jordan Alex,26,9334968711,Jorda@149,Retiree,Nilgiris,3.21,3287.04,2,Laptop,96.3,Unlimited+ OTT,399,4G,Jio
+Rex Prissila,18,8317596855,Rex P@299,Freelancer,Coimbatore,1.32,1351.68,2,Smartphone,39.6,Unlimited+ OTT,399,5G,Jio
+Jordan Casey,33,6905716471,Jorda@140,Student,Erode,0.37,378.88,1.5,Tablet,11.1,Basic+ Calls,299,5G,Airtel
+Toni Prissila,64,6791529337,Toni @134,Freelancer,Cuddalore,0.86,880.64,2,Laptop,25.8,Unlimited+ OTT,399,4G,Jio
+Rex Prissila,31,6648635171,Rex P@986,Unemployed,Dharmapuri,0.97,993.28,1,Laptop,29.1,Standard Plan,199,5G,BSNL
+Rex Toni,22,9883733829,Rex T@250,IT sector,Tirunelveli,1.15,1177.6,1.5,Smartphone,34.5,Basic+ Calls,299,5G,Airtel
+Prissila Morgan,28,9396153346,Priss@067,Other Professionals,Kallakurichi,2.57,2631.68,1.5,Laptop,77.1,Basic+ Calls,299,5G,Airtel
+Morgan Toni,64,7489267492,Morga@208,Other Professionals,Thoothukudi,3.11,3184.64,2,Smartphone,93.3,Unlimited+ OTT,399,5G,Jio
+Prissila Alex,30,6704035243,Priss@314,Doctor,Nilgiris,0.51,522.24,1.5,Television,15.3,Basic+ Calls,299,4G,Airtel
+Toni Rex,70,9757117638,Toni @287,Student,Ariyalur,4.81,4925.44,2.5,Laptop,144.3,Entertainment+ Data,499,4G,VI
+Sherif Rex,19,8497046677,Sheri@016,Retiree,Cuddalore,3.61,3696.64,2,Television,108.3,Unlimited+ OTT,399,5G,Jio
+Alex Prissila,26,9361510742,Alex @699,Retiree,Tirunelveli,4.77,4884.48,2.5,Laptop,143.1,Entertainment+ Data,499,5G,VI
+Jebasto Jordan,40,7606366445,Jebas@364,Other Professionals,Cuddalore,2.92,2990.08,2.5,Laptop,87.6,Entertainment+ Data,499,5G,VI
+Rex Rex,64,8838050621,Rex R@032,IT sector,Karur,1.16,1187.84,2,Tablet,34.8,Unlimited+ OTT,399,5G,Jio
+Jebasto Prissila,48,9360160050,Jebas@333,Freelancer,Thiruvarur,4.41,4515.84,1,Tablet,132.3,Standard Plan,199,4G,BSNL
+Tejasvi,34,9645020974,Tejas@727,Freelancer,Perambalur,3.1,3174.4,2,Smartphone,93,Unlimited+ OTT,399,5G,Jio
+Dhisha,26,6819269761,Dhish@680,IT sector,Thanjavur,1.95,1996.8,2.5,Tablet,58.5,Entertainment+ Data,499,4G,VI
+Krishanth,68,6196969188,Krish@924,Retiree,Pudukkottai,1.04,1064.96,2.5,Smartphone,31.2,Entertainment+ Data,499,5G,VI
+Chelvan,46,8154783398,Chelv@356,Student,Vellore,2.22,2273.28,2.5,Smartphone,66.6,Entertainment+ Data,499,4G,VI
+Jeevanasan,56,8241302243,Jeeva@361,Freelancer,Thoothukudi,4.27,4372.48,1,Tablet,128.1,Standard Plan,199,5G,BSNL
+Paul,70,9925557991,PaulY@736,Unemployed,Thoothukudi,3.3,3379.2,1.5,Smartphone,99,Basic+ Calls,299,4G,Airtel
+Rudhresh,21,7166877965,Rudhr@918,Freelancer,Madurai,2.52,2580.48,2.5,Laptop,75.6,Entertainment+ Data,499,4G,VI
+Akina,36,9569619340,Akina@376,Other Professionals,Ramanathapuram,2.89,2959.36,1,Tablet,86.7,Standard Plan,199,5G,BSNL
+Rubitha,37,9100122710,Rubit@768,Teacher,Thanjavur,3.91,4003.84,2.5,Tablet,117.3,Entertainment+ Data,499,4G,VI
+Ashokan,26,6503333271,Ashok@348,Other Professionals,Nilgiris,2.76,2826.24,1.5,Smartphone,82.8,Basic+ Calls,299,4G,Airtel
+Yoshitha,25,6553910808,Yoshi@104,Student,Pudukkottai,4.12,4218.88,1.5,Tablet,123.6,Basic+ Calls,299,4G,Airtel
+Revathy,63,7958585937,Revat@758,Teacher,Erode,4.74,4853.76,1,Smartphone,142.2,Standard Plan,199,4G,BSNL
+Suriya,57,8949681501,Suriy@208,Student,Karur,3.14,3215.36,2,Smartphone,94.2,Unlimited+ OTT,399,5G,Jio
+Vishal,38,8347988190,Visha@130,Doctor,Chennai,3.78,3870.72,2.5,Tablet,113.4,Entertainment+ Data,499,4G,VI
+Yash,62,6103492275,YashM@321,Teacher,Tiruvannamalai,3.74,3829.76,1.5,Television,112.2,Basic+ Calls,299,5G,Airtel
+Samarth,30,9838431748,Samar@868,Freelancer,Ariyalur,2.94,3010.56,2,Laptop,88.2,Unlimited+ OTT,399,5G,Jio
+Jeeba,36,7696862325,Jeeba@160,IT sector,Cuddalore,3.57,3655.68,1.5,Smartphone,107.1,Basic+ Calls,299,4G,Airtel
+Mouli,64,8216745311,Mouli@149,Teacher,Dindigul,1.53,1566.72,2.5,Laptop,45.9,Entertainment+ Data,499,4G,VI
+Suganthi,52,7176782306,Sugan@667,Other Professionals,Karur,1.32,1351.68,1.5,Tablet,39.6,Basic+ Calls,299,4G,Airtel
+Thomas,33,7381938765,Thoma@873,IT sector,Nilgiris,0.84,860.16,2.5,Smartphone,25.2,Entertainment+ Data,499,4G,VI
+Tinto,41,6573479720,Tinto@358,IT sector,Thiruvallur,0.13,133.12,2.5,Television,3.9,Entertainment+ Data,499,5G,VI
+Yoha,45,9964540372,YohaO@702,Retiree,Perambalur,2.37,2426.88,1,Laptop,71.1,Standard Plan,199,5G,BSNL
+Thrisha,70,6932243924,Thris@871,Teacher,Theni,2.77,2836.48,1,Smartphone,83.1,Standard Plan,199,5G,BSNL
+Sathvika,56,8478288106,Sathv@290,Student,Coimbatore,1.62,1658.88,2.5,Smartphone,48.6,Entertainment+ Data,499,5G,VI
+David,40,8309765875,David@119,Freelancer,Cuddalore,2.43,2488.32,1.5,Tablet,72.9,Basic+ Calls,299,4G,Airtel
+John,47,8101094462,Johny@973,IT sector,Dharmapuri,4.44,4546.56,2,Television,133.2,Unlimited+ OTT,399,4G,Jio
+Tony,46,8786129282,Tonyf@700,Doctor,Virudhunagar,2.77,2836.48,2.5,Tablet,83.1,Entertainment+ Data,499,4G,VI
+Marthur,20,9888968398,Marth@951,Unemployed,Salem,1.49,1525.76,1,Tablet,44.7,Standard Plan,199,5G,BSNL
+Niel,68,9544895654,NielK@734,IT sector,Ramanathapuram,1.74,1781.76,1.5,Tablet,52.2,Basic+ Calls,299,4G,Airtel
+Shawn,69,9281099427,Shawn@810,IT sector,Namakkal,3,3072,1.5,Laptop,90,Basic+ Calls,299,4G,Airtel
+Muhammad,47,8664374173,Muham@768,IT sector,Cuddalore,3.99,4085.76,2.5,Laptop,119.7,Entertainment+ Data,499,5G,VI
+Joshva,36,8476605941,Joshv@015,IT sector,Nagapattinam,1.03,1054.72,1,Television,30.9,Standard Plan,199,5G,BSNL
+Sudari,45,7708591757,Sudar@297,Other Professionals,Erode,4.89,5007.36,1.5,Television,146.7,Basic+ Calls,299,4G,Airtel
+Adhithya,39,8653884366,Adhit@845,Teacher,Tiruchirappalli,1.99,2037.76,2,Smartphone,59.7,Unlimited+ OTT,399,4G,Jio
+Ezhil,58,6748219192,Ezhil@510,Teacher,Pudukkottai,1.53,1566.72,1.5,Laptop,45.9,Basic+ Calls,299,5G,Airtel
+Manasi,50,9908299263,Manas_318,Doctor,Theni,3.34,3420.16,2,Tablet,100.2,Unlimited+ OTT,399,4G,Jio
+Rukmani,23,7442371994,Rukma_#44,Teacher,Chennai,1.41,1443.84,1.5,Laptop,42.3,Basic+ Calls,299,5G,Airtel
+Sivalini,64,9440046859,Sival#538,Retiree,Krishnagiri,0.64,655.36,2.5,Smartphone,19.2,Entertainment+ Data,499,4G,VI
+Siva,69,9986967891,Siva_665,Student,Tirunelveli,3.05,3123.2,2.5,Smartphone,91.5,Entertainment+ Data,499,5G,VI
+Deesha,42,6300169740,Deesh#089,Unemployed,Vellore,4.49,4597.76,2,Television,134.7,Unlimited+ OTT,399,5G,Jio
+Daisy,45,7512351620,Daisy151,Student,Vellore,4.53,4638.72,2,Smartphone,135.9,Unlimited+ OTT,399,5G,Jio
+Maran,58,9192675065,Maran_983,Retiree,Kallakurichi,3.51,3594.24,1,Tablet,105.3,Standard Plan,199,4G,BSNL
+Mani,26,8681110465,Mani_600,Doctor,Ramanathapuram,3.69,3778.56,2,Tablet,110.7,Unlimited+ OTT,399,4G,Jio
+Sivanjan,38,6372033357,Sivan#318,Student,Tiruppur,2.98,3051.52,2,Smartphone,89.4,Unlimited+ OTT,399,4G,Jio
+Prissila ,54,6232030841,Priss@665,Freelancer,Krishnagiri,1.82,1863.68,2.5,Tablet,54.6,Entertainment+ Data,499,5G,VI
+Sameera,44,7150778435,Samee#681,Unemployed,Dharmapuri,1.74,1781.76,2.5,Tablet,52.2,Entertainment+ Data,499,4G,VI
+Kandiz,42,7612884561,Kandi_605,Teacher,Pudukkottai,4.01,4106.24,1,Smartphone,120.3,Standard Plan,199,4G,BSNL
+Isha,67,8539749421,Ishaf@440,Retiree,Theni,0.97,993.28,2.5,Smartphone,29.1,Entertainment+ Data,499,4G,VI
+Sebha,31,7711989104,Sebh@234,Doctor,Thiruvarur,2.61,2672.64,2,Television,78.3,Unlimited+ OTT,399,4G,Jio
+Pavitha,58,8201463336,Pavit108,Student,Villupuram,1.75,1792,1.5,Smartphone,52.5,Basic+ Calls,299,5G,Airtel
+Vidhu,48,6904260920,Vidhu_358,Student,Thiruvarur,3.68,3768.32,1,Laptop,110.4,Standard Plan,199,4G,BSNL
+Jaya,39,7536057183,Jaya#705,Freelancer,Coimbatore,0.28,286.72,1,Television,8.4,Standard Plan,199,5G,BSNL
+Jason,34,6761440791,Jason_694,Unemployed,Dharmapuri,3.16,3235.84,1,Laptop,94.8,Standard Plan,199,4G,BSNL
+Prakash,36,8133980066,Praka83,Retiree,Tirunelveli,0.52,532.48,1.5,Television,15.6,Basic+ Calls,299,4G,Airtel
+nisha,58,8729395739,nisha_234,Freelancer,Tiruppur,2.06,2109.44,1.5,Television,61.8,Basic+ Calls,299,4G,Airtel
+Venkat,22,9529679452,Venka_790,Student,Thiruvarur,4.12,4218.88,2.5,Laptop,123.6,Entertainment+ Data,499,5G,VI
+Shivani,18,6757680344,Shiva527,Other Professionals,Thoothukudi,4.64,4751.36,2,Laptop,139.2,Unlimited+ OTT,399,4G,Jio
+Kumara,36,9930141082,Kumar_975,Doctor,Pudukkottai,3.99,4085.76,2,Laptop,119.7,Unlimited+ OTT,399,4G,Jio
+Harshith,61,8781348785,Harsh#841,Doctor,Thanjavur,1.52,1556.48,2,Television,45.6,Unlimited+ OTT,399,4G,Jio
+Jerry,61,8594614243,Jerry_013,IT sector,Thiruvarur,0.47,481.28,2,Tablet,14.1,Unlimited+ OTT,399,5G,Jio
+Tom,54,8974539398,TomII_348,Teacher,Salem,0.89,911.36,1,Tablet,26.7,Standard Plan,199,4G,BSNL
+Lathika,48,7176979269,Lathi#970,Freelancer,Perambalur,1.16,1187.84,1.5,Laptop,34.8,Basic+ Calls,299,5G,Airtel
+Sarani,22,9211287175,Saran_161,Freelancer,Chennai,1.32,1351.68,1,Smartphone,39.6,Standard Plan,199,5G,BSNL
+Loga,62,6831135333,Loga878,Teacher,Kallakurichi,2.19,2242.56,2.5,Television,65.7,Entertainment+ Data,499,4G,VI
+Dharani,58,7651967432,Dhara_099,IT sector,Tirunelveli,3.14,3215.36,1,Laptop,94.2,Standard Plan,199,5G,BSNL
+Meena,55,7896564918,Meena#212,IT sector,Sivagangai,3.99,4085.76,1.5,Tablet,119.7,Basic+ Calls,299,5G,Airtel
+Teja,52,8873478536,Tejaw289,IT sector,Chennai,4.55,4659.2,2,Laptop,136.5,Unlimited+ OTT,399,4G,Jio
+Ani,69,7655749500,Anijj_242,Unemployed,Chennai,1.95,1996.8,1,Television,58.5,Standard Plan,199,4G,BSNL
+Vatsan,48,7621326353,Vatsa_875,Doctor,Karur,3.08,3153.92,1.5,Smartphone,92.4,Basic+ Calls,299,5G,Airtel
+Swee,70,8695128627,Swee_893,IT sector,Pudukkottai,1.27,1300.48,1.5,Television,38.1,Basic+ Calls,299,4G,Airtel

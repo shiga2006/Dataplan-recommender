@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            width: 50%;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            background-color: #f9f9f9;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+        .back {
+            margin-top: 20px;
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: blue;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>User Details for {{ name }}</h2>
+        <table>
+            <tr><th>Daily Usage (GB)</th><td>{{ details.Daily_Usage_GB }}</td></tr>
+            <tr><th>Daily Usage (MB)</th><td>{{ details.Daily_Usage_MB }}</td></tr>
+            <tr><th>Monthly Usage (GB)</th><td>{{ details.Monthly_Usage_GB }}</td></tr>
+            <tr><th>Device Type</th><td>{{ details.Device_Type }}</td></tr>
+            <tr><th>Preferred Network</th><td>{{ details.Preferred_Network }}</td></tr>
+            <tr><th>SIM Type</th><td>{{ details.SIM_Type }}</td></tr>
+            <tr><th>Network Package</th><td>{{ details.Network_Package }}</td></tr>
+            <tr><th>Data Limit (GB)</th><td>{{ details.Data_Limit_GB }}</td></tr>
+            <tr><th>Package Cost</th><td>₹{{ details.Package_Cost }}</td></tr>
+        </table>
+        <a class="back" href="{{ url_for('home') }}">Go Home</a>
+    </div>
+</body>
+</html>

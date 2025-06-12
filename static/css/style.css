@@ -1,0 +1,330 @@
+nav{
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-links{
+    flex: 1;
+    text-align: right;
+    
+}
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+    
+}
+.nav-links a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    
+}
+.nav-links ul li::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #ff0000;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+    
+}
+.nav-links ul li:hover::after{
+    width: 100%;
+    
+}
+body{
+    background-color: #061738;
+    color: white;
+}
+
+
+
+.h50{
+    height: 50px;
+
+}
+.h700{
+    height: 700px;
+
+}
+main{
+    align-items: center;
+    
+}
+nav{
+    color: white;
+}
+footer{
+    
+    text-align: center;
+    align-items: flex-end;
+    padding: 10px;
+    color: white;
+    margin-top: 10px;
+    background-color: #232629;
+    position: static;
+    bottom: 0px;
+    height: auto;
+
+}
+.proj{
+
+    height: 60px;
+    width: 70px;
+    display: inline-block;
+    margin: 3px;
+    background-color: gray;
+}
+
+profCard{
+    
+    height: auto;
+    padding-bottom: 2px;
+    align-items: center;
+    text-align: center;
+    font-family: Sans-serif;
+    
+}
+
+card{
+    background-color: #dc3545a1;
+    height: 400px;
+    align-items: center;
+    font-family: Sans-serif;
+    
+}
+card:nth-child(even){
+    background-color: #dc354566;
+}
+.service{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: orangered;
+    font-size: 1.5rem;
+}
+.serviceTitle{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+    padding: 2px ;
+    font-size: 2rem;
+
+
+}
+
+div i{
+    width: 25px;
+    height: 25px;
+    color: white;
+    padding-bottom: 4px;
+    margin-right: 1px;
+
+}
+.footerContent{
+    height: auto;
+    margin-top: 30px;
+    text-align: left;
+    padding: 1px;;
+    align-items: center;
+
+}   
+.section:nth-child(1){
+    margin: 0px;
+
+}
+.section{
+    height: auto;
+    align-items: center;
+    
+    margin-top: 10px;
+}
+.rights{
+    font-size: 1.5rem;
+}
+@media only screen and (max-width: 780px){
+    .footerContent{
+        width: 100%;
+
+    }
+    .nav{
+        display: none;
+        width: 0px;
+    }
+    .navbar-nav{
+        display: none;
+        -webkit-user-modify: 0px;
+    }
+    .col{
+        width: 100%;
+    }
+    card{
+        margin: 10px;
+    }
+    .rights{
+        font-size: 1rem;
+    }
+    .contentText{
+        width: 75%;
+        padding-bottom: 3px;
+    }
+    
+    
+
+}
+
+
+hr{
+          
+    margin-top: 8px;
+
+    color: inherit;
+    border: 0;
+    width: 75%  ;
+    border-top: var(--bs-border-width) dashed;
+    opacity: .25;
+        }
+
+        .navbar-logo {
+            height: 40px; /* Set the height of the logo */
+            width: auto; /* Maintain aspect ratio */
+            display: inline-block; /* Ensure proper alignment */
+            margin-right: 10px; /* Add spacing if needed */
+          }
+          
+          .navbar-logo:hover {
+            opacity: 0.8; /* Optional: Slight fade effect on hover */
+            transform: scale(1.05); /* Optional: Slight zoom on hover */
+            transition: all 0.3s ease; /* Smooth transition for hover effects */
+          }
+.col-4 {
+    padding-left: 50px; /* Adjust this value to add space on the left side of each column */
+  }        
+.serviceTitle{
+    padding-left: 50px;
+    margin-top: -10px;
+    color: white;
+}
+.complaint-form {
+    background-color: #f7f7f7; /* Light grey background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-group input,
+  .form-group select,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .submit-button {
+    background-color: #007bff; /* Blue */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  .serviceTitle {
+    margin-top: -10px;
+  }
+  .section-clients {
+    margin-top: -200px; /* Adjust this value to move it up */
+    padding-bottom: 20px; /* Optional: Ensure the spacing below looks consistent */
+}
+.img-fluid {
+    max-height: 100px;
+    object-fit: contain;
+}
+.section {
+    text-align: center;
+    padding: 20px;
+}
+.serviceTitle {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 35px;
+    text-align: center;
+}
+.company-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px; /* Adds space between logos */
+    margin-top: 20px;
+}
+/* Style for the section */
+.section {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style for the title */
+.serviceTitle {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Container for the logos */
+.company-logos {
+    display: flex;
+    justify-content: center;  /* Center align the logos */
+    gap: 30px;  /* Space between logos */
+    flex-wrap: wrap;  /* Allows logos to wrap if the screen is small */
+    margin-top: 20px;
+}
+
+/* Individual logo styles */
+.company-logos img {
+    max-height: 80px;  /* Adjust the size of logos */
+    object-fit: contain;
+}
+
+/* For ensuring logos are placed properly */
+.company-logos .col {
+    flex: 0 0 auto;  /* Prevent logos from stretching or shrinking */
+}
+/* Style for the About Us section */
+.about-us {
+    text-align: left;
+    padding: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: #8156b5;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+/* Style for the section title */
+.serviceTitle {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 20px;
+}

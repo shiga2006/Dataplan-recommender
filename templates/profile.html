@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Details</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+        }
+
+        .alert {
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+
+        .alert-success {
+            color: #155724;
+            background-color: #d4edda;
+            border-color: #c3e6cb;
+        }
+
+        .alert-error {
+            color: #721c24;
+            background-color: #f8d7da;
+            border-color: #f5c6cb;
+        }
+
+        .user-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+
+        .profile-image {
+            width: 60px;
+            height: 60px;
+            background: #007BFF;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 24px;
+            margin-right: 20px;
+        }
+
+        .user-name {
+            font-size: 24px;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .details-section {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .section {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        .section h3 {
+            margin: 0 0 20px;
+            color: #333;
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .detail-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .detail-label {
+            color: #666;
+            font-weight: 500;
+        }
+
+        .detail-value {
+            color: #333;
+            font-weight: 500;
+        }
+
+        .buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            margin-top: 30px;
+        }
+
+        .btn {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .btn-primary {
+            background-color: #007BFF;
+            color: white;
+        }
+
+        .btn-secondary {
+            background-color: #6c757d;
+            color: white;
+        }
+
+        .btn:hover {
+            opacity: 0.9;
+        }
+
+        @media (max-width: 768px) {
+            .details-section {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }}">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <div class="user-header">
+            <div class="profile-image">
+                {{ user.Name[0] }}
+            </div>
+            <div class="user-name">{{ user.Name }}</div>
+        </div>
+
+        <div class="details-section">
+            <div class="section">
+                <h3>Personal Information</h3>
+                <div class="detail-item">
+                    <span class="detail-label">Age</span>
+                    <span class="detail-value">{{ user.Age }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Mobile Number</span>
+                    <span class="detail-value">{{ user.Mobile_Number }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Location</span>
+                    <span class="detail-value">{{ user.Location }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Occupation</span>
+                    <span class="detail-value">{{ user.Occupation }}</span>
+                </div>
+            </div>
+
+            <div class="section">
+                <h3>Network Details</h3>
+                <div class="detail-item">
+                    <span class="detail-label">Daily Usage (GB)</span>
+                    <span class="detail-value">{{ user.Daily_Usage_GB }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Daily Usage (MB)</span>
+                    <span class="detail-value">{{ user.Daily_Usage_MB }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Monthly Usage (GB)</span>
+                    <span class="detail-value">{{ user.Monthly_Usage_GB }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Device Type</span>
+                    <span class="detail-value">{{ user.Device_Type }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Network Package</span>
+                    <span class="detail-value">{{ user.Network_Package }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Data Limit (GB)</span>
+                    <span class="detail-value">{{ user.Data_Limit_GB }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Package Cost</span>
+                    <span class="detail-value">₹{{ user.Package_Cost }}</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="buttons">
+            <form action="{{ url_for('suggest_plan') }}" method="POST">
+                <input type="hidden" name="name" value="{{ user.Name }}">
+                <button type="submit" class="btn btn-primary">Suggest Plan</button>
+            </form>
+            
+        </div>
+    </div>
+</body>
+</html>

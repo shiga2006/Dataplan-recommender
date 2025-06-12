@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network and Data Details</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        /* Existing styles remain the same */
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1000px;
+            margin: 20px auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+        }
+
+        /* Add new styles for flash messages */
+        .alert {
+            padding: 15px;
+            margin-bottom: 20px;
+            border: 1px solid transparent;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+
+        .alert-success {
+            color: #155724;
+            background-color: #d4edda;
+            border-color: #c3e6cb;
+        }
+
+        .alert-error {
+            color: #721c24;
+            background-color: #f8d7da;
+            border-color: #f5c6cb;
+        }
+
+        .alert-info {
+            color: #0c5460;
+            background-color: #d1ecf1;
+            border-color: #bee5eb;
+        }
+
+        /* Rest of your existing styles */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 0;
+            border-bottom: 2px solid #f0f0f0;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Add flash messages section right after container opens -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }}">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <nav>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="{{ url_for('home') }}">Home</a></li>
+                    <li><a href="{{ url_for('login') }}">Login</a></li>    
+                </ul>
+            </div>
+        </nav>
+
+        <!-- Rest of your existing HTML remains the same -->
+        <div class="user-profile">
+            <div class="profile-image">
+                {{ session['name'][0] }}
+            </div>
+            <div class="profile-name">
+                {{ session['name'] }}
+            </div>
+        </div>
+
+        <h2>Enter Your Network and Data Details</h2>
+        
+        <form method="POST" action="{{ url_for('user_details') }}">
+            <!-- Your existing form content remains the same -->
+            <input type="hidden" name="name" value="{{ session['name'] }}">
+
+            <div class="form-group">
+                <label for="Daily_Usage_GB">Daily Usage (GB)</label>
+                <input type="number" step="0.01" id="Daily_Usage_GB" name="Daily_Usage_GB" required>
+            </div>
+
+            <!-- ... rest of your form groups ... -->
+
+            <button type="submit" class="submit-btn">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
