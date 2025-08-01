@@ -23,7 +23,7 @@ So I trained models to understand real user habits and make smart recommendation
 
 ---
 
-## 🧠 How It Works
+## 🧠 How It Works ??
 
 We collect and process user data like:
 
